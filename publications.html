@@ -5,9 +5,10 @@ use-site-title: true
 ---
 
 <div class="posts-list">
-  {% for publication in paginator.publications %}
+  {% for publication in site.publications %}
   <article class="post-preview">
-	  <h2 class="post-title">{{ publication.title }}</h2>   </article>
+	  <h2 class="post-title">{{ publication.title }}</h2>   
+  </article>
   {% endfor %}
 	  
 </div>
