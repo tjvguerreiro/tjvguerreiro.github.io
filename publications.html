@@ -5,9 +5,9 @@ use-site-title: true
 ---
 
 <div class="posts-list">
-  {% for publication in site.publications %}
+  {% for p in site.publications %}
   <article class="post-preview">
-	  <h2 class="post-title">{{ publication.title }}</h2>   
+	  <h2 class="post-title">{{ p.title }}</h2>   
   </article>
   {% endfor %}
 	  
