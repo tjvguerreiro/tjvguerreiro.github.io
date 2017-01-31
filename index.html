@@ -10,7 +10,7 @@ use-site-title: true
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-   {% if post.subtitle %}
+   {% if not post.short %}
     <a href="{{ post.url | prepend: site.baseurl }}">
    {% endif %}	    
 	  <h2 class="post-title">{{ post.title }}</h2>
