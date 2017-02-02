@@ -1,0 +1,947 @@
+-
+   title: Characterizing Social Insider Attacks on Facebook
+   authors: Wali Usmani, Diogo Marques,	Ivan Beschastnikh, Konstantin Beznosov, Tiago Guerreiro, Luís Carriço
+   venue: ACM CHI 2017 - ACM Conference on Human Factors in Computing Systems, Denver, Colorado, USA, May, 2017
+   pdf: http://www.di.fc.ul.pt/inconspicuous/social-insider-chi17.pdf
+   year: 2017
+   doi: 
+   bib: 
+-
+   title: Investigating Laboratory and Everyday Typing Performance of Blind Users
+   authors: Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki Hanson
+   venue: ACM Transactions on Accessible Computing, 2017
+   pdf: http://www.di.fc.ul.pt/amc/taccess_crc.pdf
+   year: 2017
+   doi: 
+   bib: 
+-
+   title: Interface para auxiliar cuidadores no registo diário e visualização de informações de pacientes com demência
+   authors: Wilmax Cruz, Seiji Isotani, Tiago Guerreiro, Luís Carriço
+   venue: IHC 2016 - XV Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais. São Paulo, Brasil, Outubro, 2016
+   pdf: http://www.di.fc.ul.pt/amc/alzheimer/day2day.pdf
+   year: 2016
+   doi: 
+   bib: 
+-
+   title: Snooping on Mobile Phones: Prevalence and Trends
+   authors: Diogo Marques, Ildar Muslukhov, Tiago Guerreiro, Luis Carriço, Konstantin Beznosov
+   venue: SOUPS 2016 - Twelfth Symposium on Usable Privacy and Security, Denver, USA, June, 2016
+   pdf: http://www.di.fc.ul.pt/amc/snooping.pdf
+   year: 2016
+   doi: 
+   bib: 
+   award: Distinguished Paper Award
+-
+   title: Effect of Target Size on Non-Visual Text-Entry 
+   authors: Kyle Montague, João Guerreiro, André Rodrigues, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves
+   venue: MobileHCI 2016 - 18th International Conference on Human-Computer Interaction with Mobile Devices and Services, Florence, Italy, September, 2016
+   pdf: http://www.di.fc.ul.pt/amc/tiny_mhci.pdf
+   award: Honourable Mention
+   year: 2016
+   doi: 
+   bib: 
+-
+   title: Towards Inviscid Text-Entry for Blind People through Non-Visual Word Prediction Interfaces
+   authors: Kyle Montague, João Guerreiro, André Rodrigues, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves
+   venue: ACM CHI 2016 Workshop on Inviscid Text Entry and Beyond, San Jose, USA, April, 2016
+   pdf: http://www.di.fc.ul.pt/amc/inviscid.pdf
+   year: 2016
+   doi: 
+   bib: 
+-
+   title: Blind People Interacting with Large Touch Surfaces: Strategies for One-handed and Two-handed Exploration
+   authors: Tiago Guerreiro, Kyle Montague, João Guerreiro, Rafael Nunes, Hugo Nicolau, Daniel Gonçalves
+   venue: ITS 2015 -  ACM International Conference on Interactive Tabletops and Surfaces, Madeira, Portugal, Novembro, 2015
+   pdf: http://www.di.fc.ul.pt/amc/tabletop_its.pdf
+   year: 2015
+   award: Best Paper Award
+   doi: 
+   bib: 
+-
+   title: Touchscreen Accessibility: From Tablets to Smartwatches
+   authors: Tiago Guerreiro, Hugo Nicolau
+   venue: ENVITER'15- European Network For Vision Impairment Training Education & Research Annual Conference
+   pdf: http://www.di.fc.ul.pt/amc/enviter.pdf
+   year: 
+   doi: 
+   bib: 
+-
+   title: Accessibility Layers: Levelling the Field for Blind People in Mobile Social Contexts
+   authors: Tiago Guerreiro
+   venue: SIGACCESS Newsletter (113), October 2015
+   pdf: http://www.di.fc.ul.pt/amc/accessibility_layers.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: TinyBlackBox: Recovering the Lost Interactions of Mobile In-the-Wild Studies
+   authors: Kyle Montague, André Rodrigues, Hugo Nicolau, Tiago Guerreiro
+   venue: ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015
+   pdf: http://www.di.fc.ul.pt/amc/tbb/tbb.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: Getting Smartphones to TalkBack: Understanding the Smartphone Adoption Process of Blind Users
+   authors: André Rodrigues, Kyle Montague, Hugo Nicolau, Tiago Guerreiro
+   venue: ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015
+   pdf: http://www.di.fc.ul.pt/amc/tbb/adoption.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: Typing Performance of Blind Users: An Analysis of Touch Behaviors, Learning Effect, and In-Situ Usage
+   authors: Hugo Nicolau, Kyle Montague, André Rodrigues, Tiago Guerreiro, Vicki Hanson
+   venue: ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015
+   pdf: http://www.di.fc.ul.pt/amc/tbb/text-entry.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: Usage of Subjective Scales in Accessibility Research
+   authors: Shari Trewin, Diogo Marques, Tiago Guerreiro
+   venue: ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015
+   pdf: http://www.di.fc.ul.pt/amc/assets_subjective.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: A terapia de reminiscência em Portugal: oportunidades para ferramentas de suporte digital
+   authors: Ricardo Antunes, Berta Alves, Wilmax Cruz, Seiji Isotani, Luís Carriço, Tiago Guerreiro
+   venue: INFORUM 2015 - Simpósio de Informática. Beira Interior, Portugal, Setembro, 2015
+   pdf: http://www.di.fc.ul.pt/amc/alzheimer/inforum.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: Physical Intrusion Detection for Android Smartphones
+   authors: Joana Velho, Diogo Marques, Tiago Guerreiro, Luís Carriço
+   venue: INFORUM 2015 - Simpósio de Informática. Beira Interior, Portugal, Setembro, 2015
+   pdf: http://www.di.fc.ul.pt/amc/auric/inforum_auric.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: Assessing Inconspicuous Smartphone Authentication for Blind People
+   authors: Diogo Marques, Luís Carriço, Tiago Guerreiro
+   venue: arXiv:1506.00930, June, 2015
+   pdf: http://www.di.fc.ul.pt/amc/taptap/auth.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: Social Impact - Identifying Quotes of Literary Works in Social Networks
+   authors: Carlos Barata, Mónica Abreu, Pedro Torres, Jorge Teixeira, Tiago Guerreiro, Francisco Couto
+   venue: EPIA 2015 - 17th Portuguese Conference on Artificial Intelligence, Coimbra, Portugal, September, 2015
+   pdf: http://www.di.fc.ul.pt/pim/social.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: HoliBraille: Multipoint Vibrotactile Feedback on Mobile Devices
+   authors: Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki Hanson
+   venue: W4A 2015 - 12th International Web for All Conference, Florence, Italy, May, 2015
+   pdf: http://www.di.fc.ul.pt/amc/ubibraille/holi_w4a.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: OptimusWeb: Selective Delivery of Desktop or Mobile Webpages
+   authors: Nádia Fernandes, Tiago Guerreiro, Diogo Marques, Luís Carriço
+   venue: W4A 2015 - 12th International Web for All Conference, Florence, Italy, May, 2015
+   pdf: http://www.di.fc.ul.pt/amc/optimus/optimus.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: TabLETS Get Physical: Non-Visual Text Entry on Tablet Devices
+   authors: João Guerreiro, André Rodrigues, Kyle Montague, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves
+   venue: ACM CHI 2015 - ACM Conference on Human Factors in Computing Systems, Seoul, South Korea, April, 2015
+   pdf: http://www.di.fc.ul.pt/amc/spatialtouch/tablets_chi2015.pdf
+   year: 2015
+   doi: 
+   bib: 
+-
+   title: SWAT: Mobile System-Wide Assistive Technologies
+   authors: André Rodrigues, Tiago Guerreiro
+   venue: HCI 2014 - 28th International British Computer Society Human Computer Interaction Conference, SouthPort, UK, September, 2014
+   pdf: http://www.di.fc.ul.pt/amc/mswat/swat.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: A Preliminary Assessment of Physical & Virtual Presence in Exergames
+   authors: Luís Duarte, Paulo Ribeiro, André Rodrigues, Tiago Guerreiro, Luís Carriço
+   venue: HCI 2014 - 28th International British Computer Society Human Computer Interaction Conference, SouthPort, UK, September, 2014
+   pdf: http://www.di.fc.ul.pt/amc/exergaming/exergames_bcs.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: Exploração Visual Online de Bases de Dados Astronómicas
+   authors: Tiago Mendes, Bruno Rodrigues, André Almeida, Miguel Gomes, Francisco Couto, Tiago Guerreiro and Alberto Krone-Martins
+   venue: INFOrum 2014 - Simpósio de Informática, Porto, Portugal, September, 2014
+   pdf: http://www.di.fc.ul.pt/pim/veja.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: Defining a Design Space for Persuasive Cooperative Interactions in Mobile Exertion Applications
+   authors: Luís Duarte, Paulo Ribeiro, Tiago Guerreiro, Luís Carriço
+   venue: CRWIG 2014 - 20th International Conference on Collaboration and Technology, Santiago, Chile, September, 2014
+   pdf: http://www.di.fc.ul.pt/amc/exergaming/crwig2014.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: Friendsourcing the Unmet Needs of People with Dementia
+   authors: João Martins, Oliver Schnell, José Carilho, Carlos Duarte, Francisco Couto, Luís Carriço, Tiago Guerreiro
+   venue: W4A 2014, Seoul, Korea, April, 2014
+   pdf: http://www.di.fc.ul.pt/amc/alzheimer/w4a_friendsourcing.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: B#: Chord-based Correction for Multitouch Braille Input 
+   authors: Hugo Nicolau, Kyle Montague, João Guerreiro, Tiago Guerreiro, Vicki Hanson
+   venue: ACM CHI 2014 - ACM Conference on Human Factors in Computing Systems, Toronto, Canada, April, 2014
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/ubibraille/b_chi2014.pdf
+   year: 2014
+   doi: 
+   bib: 
+   award: Best Paper Award
+-
+   title: Measuring Snooping Behavior with Surveys: It's How you Ask About It
+   authors: Diogo Marques, Tiago Guerreiro, Luís Carriço
+   venue: ACM CHI 2014 - Extended Abstracts of the  ACM Conference on Human Factors in Computing Systems, Toronto, Canada, April, 2014
+   pdf: http://www.di.fc.ul.pt/inconspicuous/chi-wip-snooping-cr.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: Supporting Autism Therapists: Co-Designing Interventions
+   authors: Carlos Duarte, Luís Carriço, Tiago Guerreiro, Carla Almeida, Soraia Nobre, Ana Margarida Campos
+   venue: ACM CHI 2014 - Extended Abstracts of the  ACM Conference on Human Factors in Computing Systems, Toronto, Canada, April, 2014
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/escape/sample.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: Duress Unlock: Using Covert Signals to Restrict Access to Mobile Devices
+   authors: Diogo Marques, Tiago Guerreiro, Luís Carriço
+   venue: CHI 2014 Workshop on Inconspicuous Interaction, Toronto, Canada, April, 2014
+   pdf: http://www.di.fc.ul.pt/inconspicuous/chi-ws-cr.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: Predicting Relevant Events in the Life of a Person with Alzheimer
+   authors: José Carilho, Oliver Schnell, João Martins, Carlos Duarte, Francisco Couto, Luís Carriço, Tiago Guerreiro
+   venue: BODS 2014 - BioInformatics Open Days, Braga,  February, 2014
+   pdf: http://www.di.fc.ul.pt/amc/alzheimer/predicting_life_events.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: Workshop on Inconspicuous Interaction
+   authors: Diogo Marques, Luis Carriço, Alexander De Luca, Tiago Guerreiro, Pattie Maes, Ildar Muslukhov, Ian Oakley, Emanuel von Zezschwitz
+   venue: ACM CHI 2014 Workshop on Inconspicuous Interaction, Toronto, Canada, April 2014
+   pdf: http://www.di.fc.ul.pt/inconspicuous/ii_chi2014.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: Mobile Touch Screen User Interfaces: Bridging the Gap between Motor Impaired and Able-Bodied Users
+   authors: Hugo Nicolau, Tiago Guerreiro, Daniel Gonçalves, Joaquim Jorge
+   venue: Universal Access in the Information Society, Springer.
+   pdf: http://www.di.fc.ul.pt/amc/accessibletouch/files/accessible_uais.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: Mobile Text-Entry and Visual Demands: Reusing and Optimizing Current Solutions
+   authors: Hugo Nicolau, Tiago Guerreiro, Joaquim Jorge
+   venue: Universal Access in the Information Society, Springer.
+   pdf: http://www.di.fc.ul.pt/amc/disabledrall/files/disabledrall.pdf
+   year: 2014
+   doi: 
+   bib: 
+-
+   title: Augmenting Braille Input through Multitouch Feedback
+   authors: Hugo Nicolau, Kyle Montague, João Guerreiro, Diogo Marques,  Tiago Guerreiro, Craig Stewart, Vicki Hanson
+   venue: UIST 2013 - 26th ACM Symposium on User Interface Software and Technology, St. Andrews, United Kingdom, October, 2013
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/ubibraille/uist_holibraille.pdf
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: The Today and Tomorrow of Braille Learning
+   authors: João Guerreiro, Daniel Gonçalves, Diogo Marques, Tiago Guerreiro, Hugo Nicolau, Kyle Montague
+   venue: ASSETS 2013 - 15th International ACM SIGACCESS Conference on Computers and Accessibility. Bellevue, USA, October, 2013
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/ubibraille/assets_braille_games.pdf
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: UbiBraille: Designing and Evaluating a Vibrotactile Braille-Reading Device
+   authors: Hugo Nicolau, João Guerreiro, Tiago Guerreiro, Luís Carriço
+   venue: ASSETS 2013 - 15th International ACM SIGACCESS Conference on Computers and Accessibility. Bellevue, USA, October, 2013
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/ubibraille/assets13.pdf
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: Under the Table: Tap Authentication for Smartphones
+   authors: Diogo Marques, Luís Duarte, Tiago Guerreiro, Luís Carriço
+   venue: HCI 2013 - 27th International British Computer Society Human Computer Interaction Conference. London, UK, September, 2013
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/taptap/bhci_tap.pdf
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: Towards Ubiquitous Awareness Tools for Blind People
+   authors: Ivo Rafael, Luís Duarte, Luís Carriço, Tiago Guerreiro
+   venue: HCI 2013 - 27th International British Computer Society Human Computer Interaction Conference. London, UK, September, 2013
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/uat/bhci_uat.pdf
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: Ferramentas Contextuais para Pessoas Cegas
+   authors: Ivo Rafael, Luís Duarte, Luís Carriço, Tiago Guerreiro
+   venue: Interacção 2013 - Portuguese Conference on Human-Computer Interaction. Vila Real, Portugal, Novembro, 2013
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/uat/interaccao13.pdf
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: An accessible, adaptive and multimodal digital TV framework  and corresponding development tool
+   authors: Pradipta Biswas, Pat Langdon, José Coelho, Tiago Guerreiro, Carlos Duarte
+   venue: SAI 2013 -  IEEE Technically Co-Sponsored Science and Information Conference, London, UK, 2013
+   pdf: http://www.di.fc.ul.pt/amc/guide/guide_sai13.pdf
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: Designing TV Interaction for the Elderly - A Case Study of the Design for All Approach
+   authors: José Coelho, Tiago Guerreiro, Carlos Duarte
+A Multimodal End-2-End Approach to Accessible Computing, pp. 49-69, Pradipta Biswas, Carlos Duarte, Pat Langdon, Luís Almeida, Christoph Jung (Eds.), Springer, 2013
+   venue: A Multimodal End-2-End Approach to Accessible Computing, pp. 49-69, Pradipta Biswas, Carlos Duarte, Pat Langdon, Luís Almeida, Christoph Jung (Eds.), Springer, 2013
+   pdf: http://link.springer.com/chapter/10.1007%2F978-1-4471-5082-4_3
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: Stressing the Boundaries of Mobile Accessibility
+   authors: Hugo Nicolau, João Guerreiro, Tiago Guerreiro
+   venue: MOBACC 2013: Mobile Accessibility Workshop at CHI 2013, Paris, France, April 2013
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/mswat/paper.pdf
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: SIG: NVI (Non-Visual Interaction)
+   authors: Anke Brock, Slim Kammoun, Christophe Jouffrais, Hugo Nicolau, Shaun Kane, Tiago Guerreiro
+   venue: Special Interest Group at CHI 2013, Paris, France, April 2013
+   pdf: http://www.di.fc.ul.pt/amc/CHI-SIG-NVI.pdf
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: Third Mobile Accessibility Workshop  
+   authors: Tiago Guerreiro, Shadi Abou-Zhara, Jeffrey Bigham, Luis Carriço, Daniel Gonçalves, Yeliz Yesilada
+   venue: ACM CHI 2013 Workshop on Mobile Accessibility, Paris, France, April 2013
+   pdf: http://www.di.fc.ul.pt/amc/mobacc2013_crc.pdf
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: TV Applications for the Elderly: Assessing the Acceptance of Adaptation and Multimodality
+   authors: José Coelho, Carlos Duarte, Tiago Guerreiro, Pradipta Biswas, Gokcen Aslan, Pat Langdon
+   venue: ACHI 2013: 6th International Conference on Advances in Computer-Human Interactions, Nice, France, February 2013
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/guide/achi13/achi13.pdf
+   year: 2013
+   doi: 
+   bib: 
+-
+   title: User-Sensitive Mobile Interfaces: Accounting for Individual Differences amongst the Blind
+   authors: Tiago Guerreiro
+   venue: PhD Dissertation, IST,  Technical University of Lisboa. Lisboa, Portugal, September, 2012
+   pdf: http://www.di.fc.ul.pt/amc/phd/files/tese.pdf
+   year: 2012
+   doi: 
+   bib: 
+-
+   title: Involving All Stakeholders in the Development of TV Applications for Elderly
+   authors: José Coelho, Pradipta Biswas, Carlos Duarte, Tiago Guerreiro, Pat Langdon, Pedro Feiteira, Daniel Costa, David Costa, Bruno Neves, Fernando Alves
+   venue: International Journal on Advances in Intelligent Systems, 2012
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/guide/ijais/guide_ijais.pdf
+   year: 2012
+   doi: 
+   bib: 
+-
+   title: Exploring the Accessibility of Touch Phones and Tablets for Blind People
+   authors: Tiago Guerreiro, Joaquim Jorge, Daniel Gonçalves
+   venue: MOBACC 2012: Mobile Accessibility Workshop at MobileHCI 2012, San Francisco, USA, September 2012
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd/files/paper.pdf
+   year: 2012
+   doi: 
+   bib: 
+-
+   title: Audio-Based Mobile Puzzle Gaming for Blind People
+   authors: Jaime Carvalho, Tiago Guerreiro, Luis Duarte, Luis Carriço
+   venue: MOBACC 2012: Mobile Accessibility Workshop at MobileHCI 2012, San Francisco, USA, September 2012
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/puzzles/mobacc_puzzles_review.pdf
+   year: 2012
+   doi: 
+   bib: 
+-
+   title: A Web-Based Application to Address Individual Interests of Children with Autism Spectrum Disorders
+   authors: Margarida Silva, Tiago Guerreiro, Daniel Gonçalves, Hugo Silva
+   venue: DSAI 2012: 4th International Conference on Software Development for Enhancing Accessibility and Fighting Info-exclusion, Douro, Portugal, July 2012
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/trocas/files/artigo_w4a.pdf
+   year: 2012
+   doi: 
+   bib: 
+-
+   title: Guiding Blind People with Haptic Feedback
+   authors: Slim Kammoun, Christophe Jouffrais, Tiago Guerreiro, Hugo Nicolau, Joaquim Jorge
+   venue: Pervasive 2012 workshop on Frontiers in Accessibility for Pervavise Computing , Newcastle, UK, June, 2012
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/blobby/files/2.pdf
+   year: 2012
+   doi: 
+   bib: 
+-
+   title: Mobile Text-Entry: the Unattainable Ultimate Method
+   authors: Tiago Guerreiro, Hugo Nicolau, Joaquim Jorge, Daniel Gonçalves
+   venue: Pervasive 2012 workshp on Frontiers in Accessibility for Pervavise Computing , Newcastle, UK, June, 2012
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd/files/1.pdf
+   year: 2012
+   doi: 
+   bib: 
+-
+   title: Frontiers in Accesibility for Pervasive Computing  Workshop proposal
+   authors: Mario Romero, Jeffrey Bigham, Tiago Guerreiro, Shaun Kane, Votis Konstantinos, Sergio Mascetti, Caleb Southern, Gottfried Zimmermann
+   venue: Pervasive 2012 Workshops: Tenth International Conference on Pervasive Computing, Newcastle, UK, June 2012
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd/files/fapc_wp.pdf
+   year: 2012
+   doi: 
+   bib: 
+-
+   title: Computer-Assisted Rehabilitation: Towards Effective Evaluation
+   authors: Hugo Nicolau, Tiago Guerreiro, Rita Pereira, Daniel Gonçalves, Joaquim Jorge
+   venue: International Journal of Cognitive Performance Support, October, 2011
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/rehabgaming//files/rehab.pdf
+   year: 2011
+   doi: 
+   bib: 
+-
+   title: Blind People and Mobile Touch-based Text-Entry: Acknowledging the Need for Different Flavors
+   authors: João Oliveira, Tiago Guerreiro, Hugo Nicolau, Joaquim Jorge, Daniel Gonçalves
+   venue: Proceedings of ASSETS 2011 - 13th International ACM SIGACCESS Conference on Computers and Accessibility. Dundee, Scotland, October, 2011
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd/files/afp053-oliveira.pdf
+   year: 2011
+   doi: 
+   bib: 
+   award: Best Student Paper Award
+-
+   title: BrailleType: Unleashing Braille over Touch Screen Mobile Phones
+   authors: João Oliveira, Tiago Guerreiro, Hugo Nicolau, Joaquim Jorge, Daniel Gonçalves
+   venue: Proceedings of INTERACT 2011  13th IFIP TC13 Conference on Human-Computer Interaction. Lisboa, Portugal, September, 2011
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd/files/brailletype_interact11.pdf
+   year: 2011
+   doi: 
+   bib: 
+   award: Best Short Paper Award
+-
+   title: Blind People and Mobile Keypads: Accounting for Individual Differences
+   authors: Tiago Guerreiro, João Oliveira, Hugo Nicolau, João Benedito, Joaquim Jorge, Daniel Gonçalves
+   venue: Proceedings of INTERACT 2011  13th IFIP TC13 Conference on Human-Computer Interaction. Lisboa, Portugal, September, 2011
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd//files/interact2011_crc.pdf
+   year: 2011
+   doi: 
+   bib: 
+-
+   title: Investigating the Effectiveness of Assistive Technologies on Situationally Impaired Users
+   authors: David Lucas, Hugo Nicolau, Tiago Guerreiro, Joaquim Jorge
+   venue: Proceedings of MOBACC 2011  INTERACT 2011 Workshop on Mobile Accessibility. Lisboa, Portugal, September, 2011
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/disabledrall//files/mobacc2011_submission_11.pdf
+   year: 2011
+   doi: 
+   bib: 
+-
+   title: Towards Mobile Touch Screen Inclusive User Interfaces: Differences and Resemblances between Motor-Impaired and Able-Bodied Users
+   authors: Hugo Nicolau, Tiago Guerreiro, Daniel Gonçalves, Joaquim Jorge
+   venue: Proceedings of MOBACC 2011  INTERACT 2011 Workshop on Mobile Accessibility. Lisboa, Portugal, September, 2011
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/accessibletouch//files/accessible.pdf
+   year: 2011
+   doi: 
+   bib: 
+-
+   title: Rapid Application Development using Web Technologies: An Application to Communicative Competence Promotion of Children with ASD
+   authors: Margarida Silva, Tiago Guerreiro, Daniel Gonçalves
+   venue: HEALTHINF 2011 - Proceedings of the International Conference on Health Informatics. Rome, Italy, January, 2011
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/trocas//files/healthinf_final.pdf
+   year: 2011
+   doi: 
+   bib: 
+-
+   title: Understanding Individual Differences: Towards Effective Mobile Interface Design and Adaptation for the Blind
+   authors: Tiago Guerreiro, Hugo Nicolau, João Oliveira, Joaquim Jorge, Daniel Gonçalves
+   venue: CHI 2011 Workshop on Dynamic Accessibility: Detecting and Accommodating Differences in Ability and Situation. Vancouver, Canada, May, 2011
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd//files/chi_dyn_crc.pdf
+   year: 2011
+   doi: 
+   bib: 
+-
+   title: TROCAS: Communication Skills Development in Children with Autism Spectrum Disorders via ICT
+   authors: Margarida Silva, Tiago Guerreiro, Daniel Gonçalves
+   venue: Proceedings of INTERACT 2011  13th IFIP TC13 Conference on Human-Computer Interaction. Lisboa, Portugal, September, 2011
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/trocas//files/69490644.pdf
+   year: 2011
+   doi: 
+   bib: 
+-
+   title: The Key Role of Touch in Non-Visual Mobile Interaction
+   authors: João Benedito, Tiago Guerreiro, Daniel Gonçalves
+   venue: Mobile HCI 2010: Proceedings of the 12th International Conference on Human-Computer Interaction with Mobile Devices and Services, Lisboa, Portugal, 09/2010. Lisboa, Portugal, September, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd//files/mobi272-benedito.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Laying the Groundwork for Assisted Rehabilitation
+   authors: Rita Pereira, Tiago Guerreiro, Hugo Nicolau, Joaquim Jorge, Daniel Gonçalves
+   venue: ECCE 2010 - Proceedings of the European Conference on Cognitive Ergonomics, ACM DL. Delft,Netherlands, August, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/rehabgaming//files/rehab_ecce_crc.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: SmarterPhone: Supporting meeting in a mobile context
+   authors: Humberto Glória, Tiago Guerreiro, Daniel Gonçalves
+   venue: NordiCHI 2010 - Proceedings of the 6th Nordic Conference on Human-Computer Interaction. Reykjavik, Iceland, October, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/smarterphone//files/p655-gloria.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Towards Accessible Touch Interfaces
+   authors: Tiago Guerreiro, Hugo Nicolau, Joaquim Jorge, Daniel Gonçalves
+   venue: ASSETS 2010 - Proceedings of the 12th International ACM SIGACCESS Conference on Computers and Accessibility. Orlando, Florida, USA, October, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/accessibletouch//files/26p-guerreiro2.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Identifying the individual ingredients for a (in)successful non-visual mobile experience
+   authors: Tiago Guerreiro, Joaquim Jorge, Daniel Gonçalves
+   venue: ECCE 2010 - Proceedings of the European Conference on Cognitive Ergonomics, ACM DL, Delft,Netherlands, August, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd//files/guerreiro_ecce_crc.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Relating Personally Relevant Social Information from Heterogeneous Sources
+   authors: João Guerreiro, Tiago Guerreiro, Daniel Gonçalves
+   venue: UDISW 2010 - ACM IUI Workshop on User Data Interoperability in the Social Web. Hong Kong, China, February, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/geniusphone//files/Artigo IUI.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Assessing mobile touch screen interfaces for tetraplegics
+   authors: Tiago Guerreiro, Hugo Nicolau, Joaquim Jorge, Daniel Gonçalves
+   venue: Mobile HCI 2010: Proceedings of the 12th International Conference on Human-Computer Interaction with Mobile Devices and Services, Lisboa, Portugal, 09/2010. Lisboa, Portugal, September, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/accessibletouch//files/accessible_mhci10_V5.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Surpassing Farley Files: Opportunities and Challenges on Obtaining Personally Relevant Information
+   authors: João Guerreiro, Tiago Guerreiro, Daniel Gonçalves
+   venue: MobileHCI 2010: 12th International Conference on Human-Computer Interaction with Mobile Devices and Services. Lisboa, Portugal, September, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/geniusphone//files/Farley_MobileHCI_crcv2 (1).pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Assessing Mobile-wise Individual Differences in the Blind
+   authors: Tiago Guerreiro
+   venue: MobileHCI 2010 - Doctoral Consortium: 12th International Conference on Human-Computer Interaction with Mobile Devices and Services. Lisboa, Portugal, September, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd//files/guerreiro_dc_crc.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: A Narrative-Based Alternative to Tagging
+   authors: Nuno Tomas, Tiago Guerreiro, Daniel Gonçalves
+   venue: Hypertext 2010 - Proceedings of the 21st ACM Conference on Hypertext and Hypermedia. Toronto, Canada, June, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/storytags//files/p189-tomas.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Proficient blind users and mobile text-entry
+   authors: Hugo Nicolau, Tiago Guerreiro, Daniel Gonçalves, Joaquim Jorge
+   venue: ECCE 2010 - Proceedings of the European Conference on Cognitive Ergonomics, ACM DL. Delft,Netherlands, August, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/navtap//files/navtap_CRC.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Reabilitar o Processo de Reabilitação
+   authors: Teresa Gama, Tiago Guerreiro, Hugo Nicolau, Joaquim Jorge
+   venue: Interacção 2010 - Proceedings of the 4th National Conference on Human-Computer Interaction. Aveiro, Portugal, October, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/rehabgaming//files/funrehab_rev5.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Cognimobile: Diferenças Cognitivas e os Dispositivos Móveis
+   authors: João Oliveira, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves
+   venue: Interacção 2010 - Proceedings of the 4th National Conference on Human-Computer Interaction. Aveiro, Portugal, October, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd//files/Cognimobile.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: NavTilt: Interface Gestual para Cegos
+   authors: David Lucas, Hugo Nicolau, Tiago Guerreiro, Joaquim Jorge
+   venue: Interacção 2010 - Proceedings of the 4th National Conference on Human-Computer Interaction. Aveiro, Portugal, October, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/navtilt//files/NavTilt_final.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: O Tacto e a Interacção Móvel
+   authors: João Benedito, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves
+   venue: Interacção 2010 - Proceedings of the 4th National Conference on Human-Computer Interaction. Aveiro, Portugal, October, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/phd//files/mobilesenseVFINAL.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Rumo a Interfaces Tácteis Acessíveis
+   authors: Tiago Guerreiro, Hugo Nicolau, Joaquim Jorge, Daniel Gonçalves
+   venue: Interacção 2010 - Proceedings of the 4th National Conference on Human-Computer Interaction. Aveiro, Portugal, October, 2010
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/accessibletouch//files/accessible@interaccao_CRC.pdf
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Bases para Reabilitação Assistida
+   authors: Rita Pereira, Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves, Joaquim Jorge
+   venue: Interacção 2010 - Proceedings of the 4th National Conference on Human-Computer Interaction. Aveiro, Portugal, October, 2010
+   year: 2010
+   doi: 
+   bib: 
+-
+   title: Assessing Electromyographic Interfaces
+   authors: Tiago Guerreiro, Joaquim Jorge
+   venue: Journal of Virtual Reality and Broadcasting, Vol. 5 (12), January, 2009
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/emgtexting//files/5200812.pdf
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: Mnemonical Body Shortcuts for Interacting with Mobile Devices
+   authors: Tiago Guerreiro, Ricardo Gamboa, Joaquim Jorge
+   venue: Springer Lecture Notes in Computer Science, Gesture-Based Human-Computer Interaction and Simulation, LNAI 5085, ISBN 978-3-540-92864-5, (Eds.) Miguel Sales Dias, Sylvie Gibet and Marcelo Wander, January, 2009
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/mnemonics//files/mbs_lncs.pdf
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: This Just In! Your Life in the Newspaper
+   authors: Bruno Antunes, Tiago Guerreiro, Daniel Gonçalves
+   venue: Interact 2009, Springer Lecture Notes on Computer Science, 12th IFIP TC13 Conference in Human-Computer Interaction. Uppsala, Sweden, August, 2009
+   pdf: http://www.di.fc.ul.pt/~tjvg/pim/personalnews//files/tji_springer.pdf
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: An Haptic based Immersive Environment for Shape Analysis and Modeling
+   authors: Bruno Araújo, Tiago Guerreiro, Manuel João Fonseca, et al.
+   venue: Journal of Real-Time Image Processing, ISSN: 1861-8200, Springer. Special Issue on Improving Display and Rendering Technology for Virtual Environments. Eds. João António Madeiras Pereira and Pedro Santos, October, 2009
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/satin//files/template.pdf
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: Designing Guides for Blind People
+   authors: Hugo Nicolau, Tiago Guerreiro, Joaquim Jorge
+   venue: DSAI 2009 - International Conference on Software Development for Enhancing Accessibility and Fighting Info-exclusion. Porto Salvo, Portugal, June, 2009
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/blobby//files/paper-nicolau.pdf
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: Storytags: Once Upon a Time, There Was a Photo
+   authors: Nuno Tomas, Tiago Guerreiro, Joaquim Jorge
+   venue: ACM CHI 2009 - Extended Abstracts of the ACM Conference on Human Factors in Computing Systems. Boston, MA, USA, April, 2009
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/storytags//files/wip258-tomas.pdf
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: NavTap: a Long Term Study with Excluded Blind Users
+   authors: Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves, Joaquim Jorge
+   venue: ASSETS 2009 - Eleventh International ACM SIGACCESS Conference on Computers and Accessibility. Pittsburgh, USA, October, 2009
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/navtap//files/blono_assets.pdf
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: Blobby: How to Guide a Blind Person
+   authors: Hugo Nicolau, Tiago Guerreiro, Joaquim Jorge
+   venue: ACM CHI 2009 - Extended Abstracts of the ACM Conference on Human Factors in Computing Systems. Boston, MA, USA, April, 2009
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/blobby//files/wip419-nicolau-1.pdf
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: Automating Repetitive Tasks in User Interaction
+   authors: Gabriel Barata, Tiago Guerreiro, Daniel Gonçalves
+   venue: Recpad 2009: Actas da 15ª Conferência Portuguesa de Reconhecimento de Padrões. Aveiro, Portugal, October, 2009
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: GeniusPhone: Extracting and Relating Relevant Personal Information
+   authors: João Guerreiro, Tiago Guerreiro, Daniel Gonçalves
+   venue: Recpad 2009: Actas da 15ª Conferência Portuguesa de Reconhecimento de Padrões. Aveiro, Portugal, October, 2009
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/geniusphone//files/Genius_RecPadFinal.pdf
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: GeniusPhone: A Personal Companion for Everyday Situations
+   authors: João Guerreiro, Tiago Guerreiro, Daniel Gonçalves
+   venue: 17º EPCG - Actas do 17° Encontro Português de Computação Gráfica. Covilhã, Portugal, Outubro, 2009
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/geniusphone//files/genius_epcg_2pages.pdf
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: NavTap: um estudo de longa duração com utilizadores cegos
+   authors: Tiago Guerreiro, Hugo Nicolau, Daniel Gonçalves, Joaquim Jorge
+   venue: 17º EPCG - Actas do 17° Encontro Português de Computação Gráfica. Covilhã, Portugal, Outubro, 2009
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/navtap//files/blono_17epcg_CRC.pdf
+   year: 2009
+   doi: 
+   award: Best Student Paper Award
+   bib: 
+-
+   title: Blaze - Automatizando a Interacção em Interfaces Gráficas
+   authors: Gabriel Barata, Tiago Guerreiro, Daniel Gonçalves
+   venue: 17º EPCG - Actas do 17° Encontro Português de Computação Gráfica. Covilhã, Portugal, October, 2009
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: Acessibilidade Móvel para Pessoas Cegas
+   authors: Tiago Guerreiro
+   venue: Sain Foundation 50th Anniversary commemoration Conference. Portugal, November, 2009
+   year: 2009
+   doi: 
+   bib: 
+-
+   title: Evaluating Learning Support Systems Usability: An Empirical Approach
+   authors: Alexandra Rentróia-Bonito, Tiago Guerreiro, André Martins, Vitor Fernandes, Joaquim Jorge
+   venue: Communication & Cognition, Vol. 41, Nr. 1 & 2 ISSN: 0773-4182, January, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/ice/seminole//files/IJ08cnc.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: From Tapping to Touching: Making touch screens accessible to blind users
+   authors: Tiago Guerreiro, Hugo Nicolau, Paulo Lagoá, Daniel Gonçalves, Joaquim Jorge
+   venue: IEEE Multimedia, vol. 15, no. 4, pp. 48-50, Oct-Dec, December, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/navtouch//files/mult-15-04-guer.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: RealFind: Managing Personal Items in the Physical World
+   authors: Leonel Câmara, Tiago Guerreiro, Daniel Gonçalves
+   venue: ACM CHI 2008 - Extended Abstracts of the ACM Conference on Human Factors in Computing Systems. Florence, Italy, April, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/pim/bird//files/chi_realfind.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: Understanding Stories about Personal Documents
+   authors: Daniel Gonçalves, Tiago Guerreiro, Joaquim Jorge
+   venue: The Fourth International Conference on Autonomic and Autonomous Systems, Knowledge-based User Interfaces Track, IEEE CS Press, March, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/pim/bird//files/goncalves-stories.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: Mobile Text-Entry Models for People with Disabilities
+   authors: Tiago Guerreiro, Paulo Lagoá, Hugo Nicolau, Pedro Santana, Joaquim Jorge
+   venue: ECCE 2008 - Proceedings of the 15th European Conference on Cognitive Ergonomics. Funchal, Madeira, Portugal, September, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/navtap//files/navtap_ecce.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: NavTap and BrailleTap: Non-Visual Texting Interfaces
+   authors: Tiago Guerreiro, Paulo Lagoá, Pedro Santana, Daniel Gonçalves, Joaquim Jorge
+   venue: RESNA 2008 - Rehabilitation Engineering and Assistive Technology Society of North America Conference. Arlington, Virginia, USA, June, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/navtap//files/NavTap_BrailleTap_RESNA08.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: Mnemonical Body Shortcuts: Improving Mobile Interaction
+   authors: Tiago Guerreiro, Ricardo Gamboa, Joaquim Jorge
+   venue: ECCE 2008 - European Conference on Cognitive Ergonomics, ACM DL. Madeira, Portugal, September, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/mnemonics//files/mbs_ecce_CRC.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: CameraPhone: Interacção Baseada em Câmara
+   authors: Nuno Tomas, Tiago Guerreiro, Daniel Gonçalves
+   venue: Interacção 2008 - Terceira Conferência Nacional em Interacção Pessoa-Máquina. Évora, Portugal, October, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/paula//files/cameraphoneCRC.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: Story Tags: Contar Histórias para Etiquetar Fotografias
+   authors: Nuno Tomas, Tiago Guerreiro, Daniel Gonçalves
+   venue: Interacção 2008 - Terceira Conferência Nacional em Interacção Pessoa-Máquina. Évora, Portugal, October, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/storytags//files/storytags.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: Acessibilidade Móvel: Soluções para Deficientes Visuais
+   authors: Paulo Lagoá, Hugo Nicolau, Tiago Guerreiro, Daniel Gonçalves, Joaquim Jorge
+   venue: Interacção 2008 - Actas da 3ª Conferência Nacional em Interacção Pessoa-Máquina. Évora, Portugal, Outubro, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/navtap//files/nav_interaccao.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: EasyHouse: A Multimodal Domotic System for the Tetraplegic
+   authors: David Graça, Tiago Guerreiro, Daniel Gonçalves
+   venue: Interacção 2008 - Terceira Conferência Nacional em Interacção Pessoa-Máquina. Évora, Portugal, October, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/paula//files/EasyHouse_ YetAnotherCRC.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: Real Find: Onde estão as Actas do Interacção 2006?
+   authors: Leonel Câmara, Tiago Guerreiro, Daniel Gonçalves
+   venue: Interacção 2008 - Terceira Conferência Nacional em Interacção Pessoa-Máquina, October, 2008
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: Personal News: A nossa Vida de Relance
+   authors: Bruno Antunes, Tiago Guerreiro, Daniel Gonçalves
+   venue: Interacção 2008 - Terceira Conferência Nacional em Interacção Pessoa-Máquina. Évora, Portugal, October, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/pim/personalnews//files/PersonalNews_final.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: Myographic Mobile Accessibility for Tetraplegics
+   authors: Tiago Guerreiro
+   venue: Master Thesis Dissertation, IST,  Technical University of Lisboa. Lisboa, Portugal, July, 2008
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/emgtexting//files/tese.pdf
+   year: 2008
+   doi: 
+   bib: 
+-
+   title: Assistive Technologies for Spinal Cord Injured Individuals: A Survey
+   authors: Tiago Guerreiro
+   venue: Technical Report, IST,  Technical University of Lisboa. Lisboa, Portugal, 2007
+   pdf: http://www.di.fc.ul.pt/amc/emgtexting/files/ta_tr.pdf
+   year: 2007
+   doi: 
+   bib: 
+-
+   title: Evaluating Learning Support Systems Usability: An Empirical Approach
+   authors: Alexandra Rentróia-Bonito, André Martins, Tiago Guerreiro, Vitor Fernandes, Joaquim Jorge
+   venue: Proceedings of the Third E-learning International Conference on Computer Science Education. Coimbra, Portugal, September, 2006
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/navtap//files/eLConf06_Final.pdf
+   year: 2006
+   doi: 
+   bib: 
+-
+   title: EMG as a Daily Wearable Interface
+   authors: Tiago Guerreiro, Joaquim Jorge
+   venue: GRAPP 2006: Proceedings of the First International Conference on Computer Graphics Theory and Applications Conference on Computer Science Education. Setúbal, Portugal, February, 2006
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/navtap//files/emg_grapp.pdf
+   year: 2006
+   doi: 
+   bib: 
+-
+   title: Bloco de Notas para Portadores de Deficiências Visuais
+   authors: Paulo Lagoá, Pedro Santana, Tiago Guerreiro, Joaquim Jorge
+   venue: DSAI 2006 - Conferência Nacional para o Desenvolvimento de Software para melhoria de Acessibilidade e combate à Infoexclusão. Vila Real, Portugal, March, 2006
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/navtap//files/Santana06.pdf
+   year: 2006
+   doi: 
+   bib: 
+-
+   title: Controlo Miográfico de Dispositivos Móveis para Tetraplégicos
+   authors: Tiago Guerreiro, Joaquim Jorge
+   venue: DSAI 2006 - Conferência Nacional para o Desenvolvimento de Software para melhoria de Acessibilidade e combate à Infoexclusão. Vila Real, Portugal, March, 2006
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/emgtexting//files/emg-dsai.pdf
+   year: 2006
+   doi: 
+   bib: 
+-
+   title: Bridging the Gap Between Real and Electronic Documents
+   authors: Renata Marin, Tiago Guerreiro, Daniel Gonçalves, Joaquim Jorge
+   venue: Interacção 2006 - Actas da 2ª Conferência Nacional em Interacção Pessoa-Máquina. Braga, Portugal, October, 2006
+   pdf: http://www.di.fc.ul.pt/~tjvg/pim/bird//files/16.pdf
+   year: 2006
+   doi: 
+   bib: 
+-
+   title: Homero: O Guia Contador de Histórias para Invisuais
+   authors: Tiago Guerreiro, Joaquim Jorge
+   venue: DSAI 2006 - Conferência Nacional para o Desenvolvimento de Software para melhoria de Acessibilidade e combate à Infoexclusão. Vila Real, Portugal, March, 2006
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/blobby//files/homero-dsai.pdf
+   year: 2006
+   doi: 
+   bib: 
+-
+   title: Controlo Miográfico de Dispositivos Móveis para Tetraplégicos
+   authors: Tiago Guerreiro, Joaquim Jorge
+   venue: Interacção 2006 - Actas da 2ª Conferência Nacional em Interacção Pessoa-Máquina. Braga, Portugal, October, 2006
+   pdf: http://www.di.fc.ul.pt/~tjvg/amc/emgtexting//files/emg_interaccao.pdf
+   year: 2006
+   doi: 
+   bib: 
+-
+   title: Plataforma Extensível para Interfaces Multimodais
+   authors: Tiago Guerreiro, Vitor Fernandes, Bruno Rodrigues de Araújo, Joaquim Jorge, João Madeiras Pereira
+   venue: Interacção 2006 - Actas da 2ª Conferência Nacional em Interacção Pessoa-Máquina. Braga, Portugal, October, 2006
+   pdf: http://www.di.fc.ul.pt/~tjvg/mmi/mmf//files/32.pdf
+   year: 2006
+   doi: 
+   bib: 
+-
+   title: Online Communication in a Multimedia Course
+   authors: Alexandra Rentróia-Bonito, André Martins, Tiago Guerreiro, Vitor Fernandes, Joaquim Jorge
+   venue: Interacção 2006 - Actas da 2ª Conferência Nacional em Interacção Pessoa-Máquina. Braga, Portugal, October, 2006
+   pdf: http://www.di.fc.ul.pt/~tjvg/mmi/mmf//files/13.pdf
+   year: 2006
+   doi: 
+   bib: 
+-
+   title: LEMe Wall: Desenvolvendo um Sistema de Multi-Projecção
+   authors: Bruno Rodrigues de Araújo, Tiago Guerreiro, Ricardo Jota Costa, Joaquim Jorge, João Madeiras Pereira
+   venue: EPCG 2005 - Actas do 13° Encontro Português de Computação Gráfica. Vila Real, Portugal, October, 2005
+   pdf: http://www.di.fc.ul.pt/~tjvg/mmi/leme13epcg.pdf
+   year: 2005
+   doi: 
+   bib: 
