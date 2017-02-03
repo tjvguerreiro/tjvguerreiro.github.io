@@ -51,10 +51,12 @@ p a {
 .papericons{
   color: #404040;
   margin:0;
+  margin-top:0;
 }
 
 .papericons a{
  color: #404040; 
+  margin:0;
 }
 
 
