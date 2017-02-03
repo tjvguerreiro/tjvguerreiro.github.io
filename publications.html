@@ -5,18 +5,11 @@ use-site-title: true
 ---
 
 <div class="posts-list">
-{% for publication in site.publications.pubs %}
-          <p>
-            <b>
-              <a href="{{ publication.pdf }}">
-                {{ publication.title }}
-              </a>
-            </b>
-            <small>
-              {{ publication.year }}
-            </small>
-            <br>
-            {{ publication.authors }}
-          </p>
-        {% endfor %}  
+  {% for p in site.publications %}
+  <article class="post-preview">
+	  <p>{{ p.authors }}, {{ p.title }}, {{ p.venue }}</p>
+	  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+  </article>
+  {% endfor %}
+	  
 </div>
