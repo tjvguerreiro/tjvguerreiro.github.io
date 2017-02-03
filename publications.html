@@ -6,7 +6,7 @@ use-site-title: true
 
 <div class="posts-list">
   {% for p in site.publications reversed %}
-	{% if p.pdf is defined and p.pdf %}
+	{% if p.pdf is defined %}
 		<p class="pubstyle">{{ p.authors }}, <a href="{{ p.pdf }}">{{ p.title }}</a>, {{ p.venue }}</p>
 		<p class="pubicons"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></p>
 	{% else %}
