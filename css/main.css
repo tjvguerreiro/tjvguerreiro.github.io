@@ -29,6 +29,10 @@ p a {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
 }
 
+.pubtitle a{
+  color: #404040; 
+}
+
 .pubauthors {
  margin:0;
  padding:0;
@@ -38,6 +42,7 @@ p a {
 
 .pubvenue {
  margin:0;
+ margin-bottom:0;
  padding:0;
  font-size: 14px;
  font-style: italic;
@@ -46,6 +51,10 @@ p a {
 .papericons{
   color: #404040;
   margin:0;
+}
+
+.papericons a{
+ color: #404040; 
 }
 
 
