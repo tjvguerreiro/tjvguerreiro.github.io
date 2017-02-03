@@ -18,7 +18,7 @@ p a {
   color: #008AFF;
 }
 
-.pubtitle a{
+p.pubtitle, p.pubtitle a{
   color: #404040;
   font-weight: 800;
   font-size: 16px;
