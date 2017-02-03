@@ -5,9 +5,12 @@ use-site-title: true
 ---
 
 <div class="posts-list">
-  {% for p in site.publications reversed%}
-	  <p>{{ p.authors }}, {{ p.title }}, {{ p.venue }}</p>
-	  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-  {% endfor %}
-	  
+  {% for p in site.publications reversed %}
+	{% if p.pdf %}
+		<p class="pubstyle">{{ p.authors }}, <a href="{{ p.pdf }}">{{ p.title }}</a>, {{ p.venue }}</p>
+		<p class="pubicons"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></p>
+	{% else %}
+		<p class="pubstyle">{{ p.authors }}, {{ p.title }}, {{ p.venue }}</p>
+	{% endif %}
+  {% endfor %	  
 </div>
