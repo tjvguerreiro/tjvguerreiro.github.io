@@ -19,7 +19,6 @@ use-site-title: true
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}"> 
-	  <span class="fa fa-graduation-cap about-icon"></span>
 	  <h2 class="post-title">{{ post.title }}</h2>
 
 	  {% if post.subtitle %}
