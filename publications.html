@@ -5,7 +5,7 @@ use-site-title: true
 ---
 
 <div class="posts-list">
-  {% for p in site.publications %}
+  {% for p in site.publications reversed%}
 	  <p>{{ p.authors }}, {{ p.title }}, {{ p.venue }}</p>
 	  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
   {% endfor %}
