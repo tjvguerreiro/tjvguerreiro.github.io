@@ -14,6 +14,9 @@ use-site-title: true
 		<a href="{{ p.pdf }}" aria-label="pdf">
 			<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
 		</a>
+		{% if p.award %}
+			<i class="fa fa-trophy-o" aria-hidden="true"></i>
+		{% endif %}		
 	</p>
     {% else %}
 	<p class="pubtitle">{{ p.title }}</p>
