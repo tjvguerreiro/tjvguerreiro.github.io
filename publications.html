@@ -6,6 +6,7 @@ use-site-title: true
 
 <div class="posts-list">
 {% for p in site.publications reversed%}
+    <div class="publication">
     {% if p.pdf %}
 	<p class="pubtitle"><a href="{{ p.pdf }}">{{ p.title }}</a></p>
         <p class="pubauthors">{{ p.authors }}</p>
@@ -23,5 +24,6 @@ use-site-title: true
         <p class="pubauthors">{{ p.authors }}</p>
 	<p class="pubvenue">{{ p.venue }}</p>
     {% endif %}
+    </div>
  {% endfor %}	  
 </div>
