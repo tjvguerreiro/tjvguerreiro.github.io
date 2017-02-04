@@ -24,7 +24,7 @@ p a {
   margin-bottom:0;
   color: #404040;
   font-weight: 800;
-  font-size: 16px;
+  font-size: 20px;
   letter-spacing: 1px;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
 }
@@ -36,7 +36,7 @@ p a {
 .pubauthors {
  margin:0;
  padding:0;
- font-size: 14px;
+ font-size: 16px;
  font-weight: lighter;
 }
 
@@ -44,7 +44,7 @@ p a {
  margin:0;
  margin-bottom:0;
  padding:0;
- font-size: 14px;
+ font-size: 16px;
  font-style: italic;
 }
 
