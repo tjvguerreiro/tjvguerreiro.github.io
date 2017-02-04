@@ -17,13 +17,13 @@ baseurl: ""
 title: Tiago Guerreiro
 
 # Short description of your site
-description: Accessible Computing and Pervasive Health Research
+description: Accessible Computing, Pervasive Health, and Usable Privacy Research
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "/"
+  Home: "index"
   Publications: "publications"
   Research: "research"
 
