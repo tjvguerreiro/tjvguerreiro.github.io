@@ -11,11 +11,11 @@ use-site-title: true
         <p class="pubauthors">{{ p.authors }}</p>
 	<p class="pubvenue">{{ p.venue }}</p>
 	<p class="pubicons">
-		<a href="{{ p.pdf }}" aria-label="pdf">
-			<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-		</a>
+		[ <a href="{{ p.pdf }}" aria-label="pdf">
+			<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+		</a>] 
 		{% if p.award %}
-			<i class="fa fa-trophy" aria-hidden="true"></i>
+			[ <i class="fa fa-trophy" aria-hidden="true"></i> {{ p.award }} ]
 		{% endif %}		
 	</p>
     {% else %}
