@@ -1,7 +1,7 @@
 <div class="card-columns">
 {% for p in site.projects %}
 {% if p.status != "inactive" %}
-<div class="card {%if p.link or p.url%}link{%endif%}">
+<div class="card"> <!-- {%if p.link or p.url%}link{%endif%} -->
     <!--{% if p.link %}
         {% assign proj_url = p.link %}
     {% else %}
@@ -11,7 +11,7 @@
     <a href="{{proj_url}}">
         <div class="card-block">
             <div class="title">
-                {% if p.image %}
+                <!-- {% if p.image %}
                     {% assign imgurl = p.image %}
                     {% capture init %}{{ p.image | slice: 0,1 }}{% endcapture %}
                     {% if init == "/" %}
@@ -20,7 +20,7 @@
                     <h3 class="card-title">
                         <img class="icon img-responsive" src="{{imgurl}}" alt="{{p.title}}"/>
                     </h3>
-                {% endif %}                
+                {% endif %}  -->              
                 <h3 class="card-title">{{p.title}}</h3>
             </div>
             <div class="card-text">
@@ -29,7 +29,7 @@
         </div>
         {% if p.people %}
         <div class="card-footer">
-            {% include project-people.html people=p.people %}
+           <!-- {% include project-people.html people=p.people %} -->
         </div>
         {% endif %}
     </a>
