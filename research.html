@@ -2,11 +2,11 @@
 {% for p in site.projects %}
 {% if p.status != "inactive" %}
 <div class="card {%if p.link or p.url%}link{%endif%}">
-    {% if p.link %}
+    <!--{% if p.link %}
         {% assign proj_url = p.link %}
     {% else %}
         {% capture proj_url %}{{site.base}}{{p.url}}.html{% endcapture %}
-    {% endif %}
+    {% endif %}-->
     
     <a href="{{proj_url}}">
         <div class="card-block">
