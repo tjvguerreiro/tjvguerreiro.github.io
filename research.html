@@ -4,42 +4,22 @@ title: Research
 use-site-title: true
 ---
 
-<div class="card-columns">
-{% for p in site.projects %}
-{% if p.status != "inactive" %}
-<div class="card {%if p.link or p.url%}link{%endif%}">
-    {% if p.link %}
-        {% assign proj_url = p.link %}
-    {% else %}
-        {% capture proj_url %}{{site.base}}{{p.url}}.html{% endcapture %}
-    {% endif %}
-    
-    <a href="{{proj_url}}">
-        <div class="card-block">
-            <div class="title">
-                {% if p.image %}
-                    {% assign imgurl = p.image %}
-                    {% capture init %}{{ p.image | slice: 0,1 }}{% endcapture %}
-                    {% if init == "/" %}
-                        {% capture imgurl %}{{site.base}}{{p.image}}{% endcapture %}
-                    {% endif %}
-                    <h3 class="card-title">
-                        <img class="icon img-responsive" src="{{imgurl}}" alt="{{p.title}}"/>
-                    </h3>
-                {% endif %}                
-                <h3 class="card-title">{{p.title}}</h3>
+    <div class="row pack">      
+            <div class="col-md-4 card">
+                 
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <h3 class="panel-title pull-left">Welcome to Jekyll!</h3><span class="post-meta pull-right"><small>Jun 13, 2016</small></span>
+                  </div>
+                  
+                  <img width="100%" src="/img/tjvg.jpg" alt="Welcome to Jekyll!">
+                  
+                  <div class="panel-body"><small>
+                    You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...</small>
+                    <a href="/cards/welcome-to-jekyll/" class="btn btn-primary btn-sm pull-right mt10">Read</a>
+                  </div>
+                </div>
             </div>
-            <div class="card-text">
-                {{ p.description | markdownify }}
-            </div>
-        </div>
-        {% if p.people %}
-        <div class="card-footer">
-            {% include project-people.html people=p.people %}
-        </div>
-        {% endif %}
-    </a>
-</div>
-{% endif %}
-{% endfor %}
+
+
 </div>
