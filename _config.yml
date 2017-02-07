@@ -196,7 +196,9 @@ prose:
           
 collections:
   - publications
-  - projects
+  - projects:
+      output: true
+      
   
 gems:
   - jekyll-paginate
