@@ -195,8 +195,8 @@ prose:
           help: "Check to publish post, uncheck to hide."
           
 collections:
-  publications
-  projects
+  - publications
+  - projects
       
   
 gems:
