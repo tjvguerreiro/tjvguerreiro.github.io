@@ -8,7 +8,6 @@ use-site-title: true
         
             {% for p in site.projects %}
             <div class="col-md-4 card">
-                <a href="{{ p.link }}">
                     <div class="panel panel-default">
                 {% if p.image %}
                 <img width="100%" src="/img/{{ p.image }}" alt="{{ p.title }}">
@@ -20,7 +19,6 @@ use-site-title: true
                     {{ p.description | strip_html | strip_newlines | truncate: 160 }}</small>
                 </div>
                 </div>
-                </a>
             </div>
             {% endfor %}
 </div>
