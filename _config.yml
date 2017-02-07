@@ -196,8 +196,7 @@ prose:
           
 collections:
   publications
-  projects:
-      output: true
+  projects
       
   
 gems:
