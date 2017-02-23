@@ -5,5 +5,5 @@ authors: Kyle Montague, João Guerreiro, André Rodrigues, Tiago Guerreiro, Hugo
 venue: MobileHCI 2016 - 18th International Conference on Human-Computer Interaction with Mobile Devices and Services, Florence, Italy, September, 2016
 year: 2016
 doi: 
-award: Honourable Mention
+award: honourable mention
 ---

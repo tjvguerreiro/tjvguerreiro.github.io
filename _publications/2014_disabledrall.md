@@ -1,8 +1,8 @@
 ---
 pdf: http://www.di.fc.ul.pt/amc/disabledrall/files/disabledrall.pdf
-title: Mobile Text-Entry and Visual Demands\: Reusing and Optimizing Current Solutions
+title: Mobile Text-Entry and Visual Demands&#58; Reusing and Optimizing Current Solutions
 authors: Hugo Nicolau, Tiago Guerreiro, Joaquim Jorge
-venue: Universal Access in the Information Society, Springer. To appear.
-year: 
+venue: Universal Access in the Information Society, Springer. 2014.
+year: 2014
 doi: 
 ---
