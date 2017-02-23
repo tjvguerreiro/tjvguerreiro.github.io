@@ -17,6 +17,10 @@ p a {
   color: #008AFF;
 }
 
+.outline {
+ color: red; 
+}
+
 .pubtitle{
   padding:0;
   margin-bottom:0;
