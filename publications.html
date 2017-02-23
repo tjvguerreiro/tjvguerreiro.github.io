@@ -1,12 +1,17 @@
 ---
 layout: page
-title: Publications
+title: Selected Publications
 use-site-title: true
 ---
 
+<p>
+For a complete list of publications check my [Google Scholar page](https://scholar.google.ca/citations?user=mo6UPuIAAAAJ).	
+</p>
+
+
 <div class="posts-list">
 {% for p in site.publications reversed%}
-    <div class="publication">
+    <div class="publication {{ p.year }}">
     {% if p.pdf %}
 	<p class="pubtitle"><a href="{{ p.pdf }}">{{ p.title }}</a></p>
         <p class="pubauthors">{{ p.authors }}</p>
@@ -16,7 +21,7 @@ use-site-title: true
 			<i class="fa fa-file-pdf-o" aria-hidden="true"></i> pdf
 		</a> ] 
 		{% if p.award %}
-			[ <i class="fa fa-trophy" aria-hidden="true"></i> {{ p.award }} ]
+		[ <i class="fa fa-trophy" aria-hidden="true"></i><span class="outline"> {{ p.award }} </span> ]
 		{% endif %}		
 	</p>
     {% else %}
