@@ -6,7 +6,7 @@ bigimg:
   - "/img/fcul.jpg" : "Faculdade de Ciências da Universidade de Lisboa"
   - "/img/holi.jpg" : "Multipoint vibrotactile feedback on mobile devices, W4A, 2015"
   - "/img/interview.jpg" : "Interview about our joint work on mobile accessiblity for blind people, Público newspaper, 2015"
-  - "/img/memory_cafe1.jpg" : "Presentating technology (including our research) for people with dementia, Memory Cafe (Café Memória), 2015"
+  - "/img/memory_cafe1.jpg" : "Presenting technology (including our research) for people with dementia, Memory Cafe (Café Memória), 2015"
   - "/img/frms_workshop.jpg" : "Community workshops with blind people (Android), Fundação Sain, 2016"
   - "/img/remember_me.jpg" : "Focus groups with our reminiscence therapy Android application, Memory Cafe (Café Memória), 2015"
 use-site-title: true
@@ -29,15 +29,13 @@ I am an Assistant Professor at <a href="http://ciencias.ulisboa.pt">Faculdade de
 	    {{ post.subtitle }}
 	  </div>
 	  {% endif %}
-{% if post.subtitle %}	    
-    </a>
-	  {% endif %}
+	</a>
 
-  
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
-
+	    
+    {% if post.post %}
     <div class="post-entry-container">
       {% if post.image %}
       <div class="post-image">
@@ -54,6 +52,7 @@ I am an Assistant Professor at <a href="http://ciencias.ulisboa.pt">Faculdade de
         {% endif %}
       </div>
     </div>
+   {% endif %}
 
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
