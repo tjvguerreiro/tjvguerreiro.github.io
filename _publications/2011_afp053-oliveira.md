@@ -5,4 +5,5 @@ authors: João Oliveira, Tiago Guerreiro, Hugo Nicolau, Joaquim Jorge, Daniel Go
 venue: Proceedings of ASSETS 2011 - 13th International ACM SIGACCESS Conference on Computers and Accessibility. Dundee, Scotland, October, 2011
 year: 2011
 doi: 
+award: best student paper award
 ---
