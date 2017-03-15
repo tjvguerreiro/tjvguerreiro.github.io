@@ -10,6 +10,10 @@ This page presents a set of selected publications on my main areas of research a
 
 
 <div class="posts-list">
+{% for p in site.publications.2017 reversed%}
+    <p class="pubtitle"><a href="{{ p.pdf }}">{{ p.title }}</a></p>
+{% endfor %}	  	
+	
 {% for p in site.publications reversed%}
     <div class="publication {{ p.year }}">
     {% if p.pdf %}
