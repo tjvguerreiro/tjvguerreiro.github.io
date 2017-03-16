@@ -15,7 +15,7 @@ This page presents a set of selected publications on my main areas of research a
   {% for p in site.publications %}
 	  <p>Tags: {{ p.tags }} =>
 	   Tag: {{ tag }}</p>
-    {% if p.tags == tag %}
+    {% if p.tags contains tag %}
     <li><a href="{{ p.pdf }}">{{ p.title }}</a></li>
     {% endif %}
   {% endfor %}
