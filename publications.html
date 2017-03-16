@@ -13,7 +13,7 @@ This page presents a set of selected publications on my main areas of research a
   <h3>{{ y }}</h3>
   <ul>
   {% for p in site.publications %}
-    {% if p.year contains tag %}
+    {% if p.year == y %}
     <li><a href="{{ p.pdf }}">{{ p.title }}</a></li>
     {% endif %}
   {% endfor %}
