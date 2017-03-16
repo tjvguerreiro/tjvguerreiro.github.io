@@ -13,8 +13,8 @@ This page presents a set of selected publications on my main areas of research a
   <h3>{{ tag }}</h3>
   <ul>
   {% for p in site.publications %}
-	  <p>p.tags</p>
-	  <p>tag</p>
+	  <p>{{ p.tags }}</p>
+	  <p>{{ tag }}</p>
     {% if p.tags contains tag %}
     <li><a href="{{ p.pdf }}">{{ p.title }}</a></li>
     {% endif %}
