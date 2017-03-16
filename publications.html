@@ -12,23 +12,11 @@ This page presents a set of selected publications on my main areas of research a
 {% for y in ys %}
   <h3>{{ y }}</h3>
   <ul>
-  {% for p in site.publications %}
-	  
-    {% if p.year.first %}
-	  <p>"{{ p.year }}" is not a string </p>
-{% else %}
-<p> {{ p.year }} is  a string </p>
-{% endif %}	
-	 
-	  
-    {% if y.first %}
-	  <p> "{{ y }}" is not a string </p>
-{% else %}
-<p> "{{ y }}" is a string </p>
-{% endif %}
-	  
-	  
-    {% if p.year == y %}
+  {% for p in site.publications %} 
+	  <p> {{ p.year}} =? {{ y | escape}} </p>
+    {% assign ya = y | escape %}  
+    {% assign yb = p.year | escape %}   
+    {% if ya == yb %}
     <li><a href="{{ p.pdf }}">{{ p.title }}</a></li>
     {% endif %}
   {% endfor %}
