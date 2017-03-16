@@ -10,41 +10,39 @@ This page presents a set of selected publications on my main areas of research a
 
 {% assign ys =  site.publications | map: 'year' | join: ','  | split: ',' | uniq %}
 {% for y in ys %}
-  <h3>{{ y }}</h3>
-  <ul>
-  {% for p in site.publications %} 
-    {% assign ya = y | escape %}  
-    {% assign yb = p.year | escape %}
-    {% assign ya = ya | plus: 0 %}
-    {% assign yb = yb | plus: 0 %}	  
-    {% if yb == ya %}
-    <li><a href="{{ p.pdf }}">{{ p.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-  </ul>
+	<span> {{ y }}  </span>
 {% endfor %}
 
-<div class="posts-list">	  	
+<div class="posts-list">
 	
-{% for p in site.publications reversed%}
-    <div class="publication {{ p.year }}">
-    {% if p.pdf %}
-	<p class="pubtitle"><a href="{{ p.pdf }}">{{ p.title }}</a></p>
-        <p class="pubauthors">{{ p.authors }}</p>
-	<p class="pubvenue">{{ p.venue }}</p>
-	<p class="pubicons">
-		[ <a href="{{ p.pdf }}">
-			<i class="fa fa-file-pdf-o" aria-hidden="true"></i> pdf
-		</a> ] 
-		{% if p.award %}
-		[ <i class="fa fa-trophy" aria-hidden="true"></i><span class="outline"> {{ p.award }} </span> ]
-		{% endif %}		
-	</p>
-    {% else %}
-	<p class="pubtitle">{{ p.title }}</p>
-        <p class="pubauthors">{{ p.authors }}</p>
-	<p class="pubvenue">{{ p.venue }}</p>
-    {% endif %}
-    </div>
- {% endfor %}	  
+{% for y in ys %}
+  <h3>{{ y }}</h3>	
+	{% for p in site.publications reversed%}
+	    {% assign ya = y | escape %}  
+    	    {% assign yb = p.year | escape %}
+            {% assign ya = ya | plus: 0 %}
+            {% assign yb = yb | plus: 0 %}	  
+            {% if yb == ya %}
+		    <div class="publication {{ p.year }}">
+		    {% if p.pdf %}
+			<p class="pubtitle"><a href="{{ p.pdf }}">{{ p.title }}</a></p>
+			<p class="pubauthors">{{ p.authors }}</p>
+			<p class="pubvenue">{{ p.venue }}</p>
+			<p class="pubicons">
+				[ <a href="{{ p.pdf }}">
+					<i class="fa fa-file-pdf-o" aria-hidden="true"></i> pdf
+				</a> ] 
+				{% if p.award %}
+				[ <i class="fa fa-trophy" aria-hidden="true"></i><span class="outline"> {{ p.award }} </span> ]
+				{% endif %}		
+			</p>
+		    {% else %}
+			<p class="pubtitle">{{ p.title }}</p>
+			<p class="pubauthors">{{ p.authors }}</p>
+			<p class="pubvenue">{{ p.venue }}</p>
+		    {% endif %}
+	  	    </div>
+	    {% endif %}
+	 {% endfor %}	
+{% endfor %}	 
 </div>
