@@ -51,6 +51,11 @@ p a {
  font-style: italic;
 }
 
+.year {
+ color:white; 
+ background-color:#0085a1;
+}
+
 .pubicons{
   color: #404040;
   margin:0;
