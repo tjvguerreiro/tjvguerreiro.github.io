@@ -5,5 +5,5 @@ authors: Tiago Guerreiro, Joaquim Jorge
 venue: GRAPP 2006&#58; Proceedings of the First International Conference on Computer Graphics Theory and Applications Conference on Computer Science Education. Setúbal, Portugal, February, 2006
 year: 2006
 doi: 
-tags: [2006]
+tags: [2006, Accessible Computing]
 ---
