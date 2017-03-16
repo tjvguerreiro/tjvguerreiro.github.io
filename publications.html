@@ -11,6 +11,7 @@ This page presents a set of selected publications on my main areas of research a
 {% assign years =  site.publications | map: 'year' | join: ','  | uniq %}
 {% for year in years %}
   <h3>{{ year }}</h3>
+{% endfor %}
 
 {% assign tags =  site.publications | map: 'tags' | join: ','  | split: ',' | uniq %}
 {% for tag in tags %}
