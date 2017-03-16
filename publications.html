@@ -20,19 +20,6 @@ This page presents a set of selected publications on my main areas of research a
   </ul>
 {% endfor %}
 
-{% assign tags =  site.publications | map: 'tags' | join: ','  | split: ',' | uniq %}
-{% for tag in tags %}
-  <h3>{{ tag }}</h3>
-  <ul>
-  {% for p in site.publications %}
-    {% if p.tags contains tag %}
-    <li><a href="{{ p.pdf }}">{{ p.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-  </ul>
-{% endfor %}
-
-
 <div class="posts-list">	  	
 	
 {% for p in site.publications reversed%}
