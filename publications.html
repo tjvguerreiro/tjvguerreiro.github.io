@@ -8,6 +8,10 @@ use-site-title: true
 This page presents a set of selected publications on my main areas of research and contributions therein. For a complete list check my <a href="https://scholar.google.ca/citations?user=mo6UPuIAAAAJ">Google Scholar page</a>.	
 </blockquote>
 
+{% assign years =  site.publications | map: 'year' | join: ','  | uniq %}
+{% for year in years %}
+  <h3>{{ year }}</h3>
+
 {% assign tags =  site.publications | map: 'tags' | join: ','  | split: ',' | uniq %}
 {% for tag in tags %}
   <h3>{{ tag }}</h3>
