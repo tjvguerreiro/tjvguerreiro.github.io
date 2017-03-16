@@ -13,10 +13,9 @@ This page presents a set of selected publications on my main areas of research a
   <h3>{{ y }}</h3>
   <ul>
   {% for p in site.publications %} 
-	  <p> {{ p.year}} =? {{ y | escape}} </p>
     {% assign ya = y | escape %}  
     {% assign yb = p.year | escape %}   
-    {% if ya == yb %}
+    {% if ya contains yb or yb contains ya %}
     <li><a href="{{ p.pdf }}">{{ p.title }}</a></li>
     {% endif %}
   {% endfor %}
