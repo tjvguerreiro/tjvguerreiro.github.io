@@ -15,6 +15,11 @@ This page presents a set of selected publications on my main areas of research a
   {% for p in site.publications %} 
     {% assign ya = y | escape %}  
     {% assign yb = p.year | escape %}   
+	  
+	{{ ya[0] }} <br />
+	{{ yb[0]}} <br />
+	"{{ ya}}" <br />
+	"{{ yb}}" <br />
     {% if yb contains ya %}
     <li><a href="{{ p.pdf }}">{{ p.title }}</a></li>
     {% endif %}
