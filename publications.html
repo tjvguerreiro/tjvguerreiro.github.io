@@ -8,13 +8,6 @@ use-site-title: true
 This page presents a set of selected publications on my main areas of research and contributions therein. For a complete list check my <a href="https://scholar.google.ca/citations?user=mo6UPuIAAAAJ">Google Scholar page</a>.	
 </blockquote>
 
-<ul class="tags">
-{% for tag in site.tags %}
-  {% assign t = tag | first %}
-  <li>{{t | downcase | replace:" ","-" }}</li>
-{% endfor %}
-</ul>
-
 
 <div class="posts-list">	  	
 	
