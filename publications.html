@@ -15,9 +15,9 @@ This page presents a set of selected publications on my main areas of research a
 
 <div class="posts-list">
 	
-{% for y in ys %}
+{% for y in ys reversed %}
   <h2>{{ y }}</h2>	
-	{% for p in site.publications reversed%}
+	{% for p in site.publications %}
 	    {% assign ya = y | escape %}  
     	    {% assign yb = p.year | escape %}
             {% assign ya = ya | plus: 0 %}
