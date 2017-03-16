@@ -9,9 +9,6 @@ This page presents a set of selected publications on my main areas of research a
 </blockquote>
 
 {% assign ys =  site.publications | map: 'year' | join: ','  | split: ',' | uniq %}
-{% for y in ys %}
-	<span> {{ y }} </span>
-{% endfor %}
 
 <div class="posts-list">
 	
@@ -44,6 +41,5 @@ This page presents a set of selected publications on my main areas of research a
 	  	    </div>
 	    {% endif %}
 	 {% endfor %}	
-    <hr>
 {% endfor %}	 
 </div>
