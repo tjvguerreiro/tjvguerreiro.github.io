@@ -77,13 +77,17 @@ h2.year {
 
 .filter-details {
 	 list-style-type: none;
+	 text-align:center;
 }
 
 .filter-details li {
      display: inline;
      margin: 3px;
-	 color:white; 
-	 background-color:#0085a1;
+	 color:#0085a1; 
+}
+
+.filter-details li a{
+	 color:#0085a1; 
 }
 
 h1,h2,h3,h4,h5,h6 {
