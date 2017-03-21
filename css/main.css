@@ -70,6 +70,21 @@ h2.year {
   margin:0;
 }
 
+.filters{
+	display:block;
+	margin:auto;
+}
+
+.filter-details {
+	 list-style-type: none;
+}
+
+.filter-details li {
+     display: inline;
+     margin: 3px;
+	 color:white; 
+	 background-color:#0085a1;
+}
 
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;

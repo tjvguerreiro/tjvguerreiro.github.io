@@ -7,6 +7,7 @@ $(document).ready(function(){
         
         $('.posts-list div').show().addClass('visible');
 		
+		
 		if (filter != "")
 			$('.posts-list div:not([class*="' + filter + '"])').hide().removeClass('visible');
      
