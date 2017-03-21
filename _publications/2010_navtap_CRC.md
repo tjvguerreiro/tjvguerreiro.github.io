@@ -5,4 +5,5 @@ authors: Hugo Nicolau, Tiago Guerreiro, Daniel Gonçalves, Joaquim Jorge
 venue: ECCE 2010 - Proceedings of the European Conference on Cognitive Ergonomics, ACM DL. Delft,Netherlands, August, 2010
 year: 2010
 doi: 
+tags: [Accessible Computing, Text-Entry]
 ---

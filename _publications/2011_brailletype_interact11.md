@@ -5,5 +5,6 @@ authors: João Oliveira, Tiago Guerreiro, Hugo Nicolau, Joaquim Jorge, Daniel Go
 venue: Proceedings of INTERACT 2011 - 13th IFIP TC13 Conference on Human-Computer Interaction. Lisboa, Portugal, September, 2011
 year: 2011
 doi: 
-award: best short paper award
+award: peoples' best short paper award 
+tags: [Accessible Computing, Text-Entry, Braille, Awarded Papers]
 ---

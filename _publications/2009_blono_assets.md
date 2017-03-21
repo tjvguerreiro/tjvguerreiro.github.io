@@ -6,4 +6,5 @@ venue: ASSETS 2009 - Eleventh International ACM SIGACCESS Conference on Computer
 year: 2009
 doi: 
 award: jose luis encarnação award
+tags: [Accessible Computing, Text-Entry, Awarded Papers, In-the-Wild]
 ---

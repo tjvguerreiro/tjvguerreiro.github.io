@@ -6,4 +6,5 @@ venue: SOUPS 2016 - Twelfth Symposium on Usable Privacy and Security, Denver, US
 year: 2016
 doi: 
 award: distinguished paper award
+tags: [Usable Privacy, Awarded Papers, Social Insiders]
 ---

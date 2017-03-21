@@ -5,4 +5,5 @@ authors: Hugo Nicolau, Tiago Guerreiro, Joaquim Jorge
 venue: DSAI 2009 - International Conference on Software Development for Enhancing Accessibility and Fighting Info-exclusion. Porto Salvo, Portugal, June, 2009
 year: 2009
 doi: 
+tags: [Accessible Computing]
 ---

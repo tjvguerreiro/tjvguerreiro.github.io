@@ -5,4 +5,5 @@ authors: Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki H
 venue: W4A 2015 - 12th International Web for All Conference, Florence, Italy, May, 2015
 year: 2015
 doi: 
+tags: [Accessible Computing, Braille, Text-Entry, Multi-point Feedback]
 ---

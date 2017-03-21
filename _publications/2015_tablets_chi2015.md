@@ -5,4 +5,5 @@ authors: João Guerreiro, André Rodrigues, Kyle Montague, Tiago Guerreiro, Hugo
 venue: ACM CHI 2015 - ACM Conference on Human Factors in Computing Systems, Seoul, South Korea, April, 2015
 year: 2015
 doi: 
+tags: [Accessible Computing, Text-Entry, Multi-point Feedback]
 ---

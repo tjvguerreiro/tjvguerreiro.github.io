@@ -5,4 +5,5 @@ authors: Carlos Duarte, Luís Carriço, Tiago Guerreiro, Carla Almeida, Soraia N
 venue: ACM CHI 2014 - Extended Abstracts of the  ACM Conference on Human Factors in Computing Systems, Toronto, Canada, April, 2014
 year: 2014
 doi: 
+tags: [Healthcare, Autism]
 ---

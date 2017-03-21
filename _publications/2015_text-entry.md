@@ -5,4 +5,5 @@ authors: Hugo Nicolau, Kyle Montague, André Rodrigues, Tiago Guerreiro, Vicki H
 venue: ASSETS 2015 - 17th International ACM SIGACCESS Conference on Computers and Accessibility. Lisboa, Portugal, October, 2015
 year: 2015
 doi: 
+tags: [Accessible Computing, Text-Entry, In-the-wild]
 ---

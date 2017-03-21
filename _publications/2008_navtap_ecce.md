@@ -5,4 +5,5 @@ authors: Tiago Guerreiro, Paulo Lagoá, Hugo Nicolau, Pedro Santana, Joaquim Jor
 venue: ECCE 2008 - Proceedings of the 15th European Conference on Cognitive Ergonomics. Funchal, Madeira, Portugal, September, 2008
 year: 2008
 doi: 
+tags: [Accessible Computing, Text-Entry]
 ---

@@ -5,4 +5,5 @@ authors: Tiago Guerreiro, Paulo Lagoá, Pedro Santana, Daniel Gonçalves, Joaqui
 venue: RESNA 2008 - Rehabilitation Engineering and Assistive Technology Society of North America Conference. Arlington, Virginia, USA, June, 2008
 year: 2008
 doi: 
+tags: [Accessible Computing, Text-Entry, Braille]
 ---

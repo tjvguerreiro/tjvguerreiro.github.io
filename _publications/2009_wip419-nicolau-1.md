@@ -5,4 +5,5 @@ authors: Hugo Nicolau, Tiago Guerreiro, Joaquim Jorge
 venue: ACM CHI 2009 - Extended Abstracts of the ACM Conference on Human Factors in Computing Systems. Boston, MA, USA, April, 2009
 year: 2009
 doi: 
+tags: [Accessible Computing]
 ---

@@ -5,4 +5,5 @@ authors: Margarida Silva, Tiago Guerreiro, Daniel Gonçalves, Hugo Silva
 venue: DSAI 2012&#58; 4th International Conference on Software Development for Enhancing Accessibility and Fighting Info-exclusion, Douro, Portugal, July 2012
 year: 2012
 doi: 
+tags: [Healthcare, Autism]
 ---

@@ -5,4 +5,5 @@ authors: Hugo Nicolau, Tiago Guerreiro, Rita Pereira, Daniel Gonçalves, Joaquim
 venue: International Journal of Cognitive Performance Support, October, 2011
 year: 2011
 doi: 
+tags: [Healthcare]
 ---
