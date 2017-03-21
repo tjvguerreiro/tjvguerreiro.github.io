@@ -9,6 +9,7 @@ This page presents a set of selected publications on my main areas of research. 
 </blockquote>
 
 {% assign ys =  site.publications | map: 'year' | join: ','  | split: ',' | uniq %}
+{% assign tags =  site.publications | map: 'tags' | join: ','  | split: ',' | uniq %}
 
 <div class="filters">
 	<ul class="filter-details">
@@ -16,6 +17,11 @@ This page presents a set of selected publications on my main areas of research. 
 		{% for y in ys reversed %}		
 			<li><a href="#" id="{{ y }}">{{ y }}</a></li>		
 		{% endfor %}
+		<br />
+		{% for tag in tags reversed %}		
+			<li><a href="#" id="{{ tag }}">{{ tag }}</a></li>		
+		{% endfor %}
+		
 	</ul>
 </div>
 
@@ -29,7 +35,7 @@ This page presents a set of selected publications on my main areas of research. 
             {% assign ya = ya | plus: 0 %}
             {% assign yb = yb | plus: 0 %}	  
             {% if yb == ya %}
-		    <div class="publication {{ p.year }}">
+		    <div class="publication {{ p.year }} {{ p.tags }}">
 		    {% if p.pdf %}
 			<p class="pubtitle"><a href="{{ p.pdf }}">{{ p.title }}</a></p>
 			<p class="pubauthors">{{ p.authors }}</p>
