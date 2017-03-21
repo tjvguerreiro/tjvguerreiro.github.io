@@ -5,4 +5,5 @@ authors: Hugo Nicolau, Kyle Montague, João Guerreiro, Diogo Marques, Tiago Guer
 venue: UIST 2013 - 26th ACM Symposium on User Interface Software and Technology, St. Andrews, United Kingdom, October, 2013
 year: 2013
 doi: 
+tags: [Accessible Computing, Braille, Text-Entry, Multi-point Feedback]
 ---

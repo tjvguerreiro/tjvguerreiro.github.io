@@ -5,4 +5,5 @@ authors: Diogo Marques, Tiago Guerreiro, Luís Carriço
 venue: ACM CHI 2014 - Extended Abstracts of the  ACM Conference on Human Factors in Computing Systems, Toronto, Canada, April, 2014
 year: 2014
 doi: 
+tags: [Usable Privacy, Social Insiders]
 ---

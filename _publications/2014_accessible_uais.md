@@ -5,4 +5,5 @@ authors: Hugo Nicolau, Tiago Guerreiro, Daniel Gonçalves, Joaquim Jorge
 venue: Universal Access in the Information Society, Springer. To appear.
 year: 2014
 doi: 
+tags: [Accessible Computing]
 ---
