@@ -10,6 +10,14 @@ This page presents a set of selected publications on my main areas of research. 
 
 {% assign ys =  site.publications | map: 'year' | join: ','  | split: ',' | uniq %}
 
+<div class="filters">
+			<h2><a href="#">Filter by year</a></h2>
+			<ul class="filter-details">
+			<li><a href="#" id="2017">2017</a></li>	
+			<li><a href="#" id="2016">2016</a></li>
+</ul>
+</div>
+
 <div class="posts-list">
 	
 {% for y in ys reversed %}
