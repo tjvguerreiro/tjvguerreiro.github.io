@@ -6,24 +6,11 @@ $(document).ready(function(){
         var filter = $(this).attr('id');
         
         $('.posts-list div').show().addClass('visible');
+		$('.posts-list h2').show().addClass('visible');
 		
-		
-		if (filter != "")
+		if (filter != "" && filter != "all"){
 			$('.posts-list div:not([class*="' + filter + '"])').hide().removeClass('visible');
-     
-    });
-});
-
-$(document).ready(function(){
-    $('.filters h2 a').click(function(e){
-		console.log("hello2")
-        e.preventDefault();
-             
-
-		$('.filters ul').toggle();
-		$('.filters ul li').toggle();
-		$('.filters ul li').show().addClass('visible');
-		
-     
+			$('.posts-list h2:not([class*="' + filter + '"])').hide().removeClass('visible');
+		}  
     });
 });

@@ -12,8 +12,10 @@ This page presents a set of selected publications on my main areas of research. 
 
 <div class="filters">
 	<ul class="filter-details">
-		<li><a href="#" id="2017">2017</a></li>	
-		<li><a href="#" id="2016">2016</a></li>
+		<li><a href="#" id="all">Show All</a></li>	
+		{% for y in ys reversed %}		
+			<li><a href="#" id="{{ y }}">{{ y }}</a></li>		
+		{% endfor %}
 	</ul>
 </div>
 
