@@ -5,5 +5,5 @@ authors: João Martins, Oliver Schnell, José Carilho, Carlos Duarte, Francisco 
 venue: W4A 2014, Seoul, Korea, April, 2014
 year: 2014
 doi: 
-tags: [Healthcare, Friendsourcing]
+tags: [Healthcares]
 ---
