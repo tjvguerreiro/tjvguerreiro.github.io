@@ -5,5 +5,5 @@ authors: Margarida Silva, Tiago Guerreiro, Daniel Gonçalves
 venue: HEALTHINF 2011 - Proceedings of the International Conference on Health Informatics. Rome, Italy, January, 2011
 year: 2011
 doi: 
-tags: [Healthcare, Autism]
+tags: [Healthcare]
 ---

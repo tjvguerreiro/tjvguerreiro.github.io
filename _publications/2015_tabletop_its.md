@@ -6,5 +6,5 @@ venue: ITS 2015 -  ACM International Conference on Interactive Tabletops and Sur
 year: 2015
 doi: 
 award: best paper award
-tags: [Accessible Computing, Awarded Papers, Multi-point Feedback]
+tags: [Accessible Computing]
 ---

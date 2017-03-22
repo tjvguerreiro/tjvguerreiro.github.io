@@ -5,5 +5,5 @@ authors: Hugo Nicolau, Tiago Guerreiro, Joaquim Jorge
 venue: Universal Access in the Information Society, Springer. 2014.
 year: 2014
 doi: 
-tags: [Accessible Computing, Text-Entry]
+tags: [Accessible Computing, Text I/O]
 ---

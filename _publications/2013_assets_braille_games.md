@@ -5,5 +5,5 @@ authors: João Guerreiro, Daniel Gonçalves, Diogo Marques, Tiago Guerreiro, Hug
 venue: ASSETS 2013 - 15th International ACM SIGACCESS Conference on Computers and Accessibility. Bellevue, USA, October, 2013
 year: 2013
 doi: 
-tags: [Accessible Computing, Text-Entry, Braille]
+tags: [Accessible Computing, Text I/O]
 ---

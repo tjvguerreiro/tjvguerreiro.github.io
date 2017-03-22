@@ -6,5 +6,5 @@ venue: MobileHCI 2016 - 18th International Conference on Human-Computer Interact
 year: 2016
 doi: 
 award: honourable mention
-tags: [Accessible Computing, Text-Entry, Wearables]
+tags: [Accessible Computing, Text I/O]
 ---

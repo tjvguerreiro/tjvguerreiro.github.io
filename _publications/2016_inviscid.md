@@ -5,5 +5,5 @@ authors: Kyle Montague, João Guerreiro, André Rodrigues, Tiago Guerreiro, Hugo
 venue: ACM CHI 2016 Workshop on Inviscid Text Entry and Beyond, San Jose, USA, April, 2016
 year: 2016
 doi: 
-tags: [Accessible Computing, Text-Entry, Multi-point Feedback]
+tags: [Accessible Computing, Text I/O]
 ---

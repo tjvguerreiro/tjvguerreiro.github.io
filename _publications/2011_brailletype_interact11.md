@@ -6,5 +6,5 @@ venue: Proceedings of INTERACT 2011 - 13th IFIP TC13 Conference on Human-Compute
 year: 2011
 doi: 
 award: peoples' best short paper award 
-tags: [Accessible Computing, Text-Entry, Braille, Awarded Papers]
+tags: [Accessible Computing, Text I/O]
 ---

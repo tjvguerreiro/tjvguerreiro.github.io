@@ -6,5 +6,5 @@ venue: Proceedings of ASSETS 2011 - 13th International ACM SIGACCESS Conference 
 year: 2011
 doi: 
 award: best student paper award
-tags: [Accessible Computing, Individual Differences, Text-Entry, Braille, Awarded Papers]
+tags: [Accessible Computing, Text I/O]
 ---

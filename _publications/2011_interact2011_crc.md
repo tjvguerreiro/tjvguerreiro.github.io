@@ -5,5 +5,5 @@ authors: Tiago Guerreiro, João Oliveira, Hugo Nicolau, João Benedito, Joaquim 
 venue: Proceedings of INTERACT 2011 - 13th IFIP TC13 Conference on Human-Computer Interaction. Lisboa, Portugal, September, 2011
 year: 2011
 doi: 
-tags: [Accessible Computing, Individual Differences]
+tags: [Accessible Computing]
 ---

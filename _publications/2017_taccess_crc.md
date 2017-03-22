@@ -5,5 +5,5 @@ authors: Hugo Nicolau, Kyle Montague, Tiago Guerreiro, André Rodrigues, Vicki H
 venue: ACM Transactions on Accessible Computing, 2017
 year: 2017
 doi: 
-tags: [Accessible Computing, Text-Entry, In-the-Wild]
+tags: [Accessible Computing, Text I/O, In-the-Wild]
 ---
