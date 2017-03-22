@@ -10,7 +10,9 @@ $(document).ready(function(){
 		
 		if (filter != "" && filter != "all"){
 			$('.posts-list div:not([class*="' + filter + '"])').hide().removeClass('visible');
-			$('.posts-list h2:not([class*="' + filter + '"])').hide().removeClass('visible');
+			if($.isNumeric(filter)) {
+				$('.posts-list h2:not([class*="' + filter + '"])').hide().removeClass('visible');
+			}
 		}  
     });
 });
