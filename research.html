@@ -11,6 +11,8 @@ use-site-title: true
 <div class="row pack">      
         
             {% for p in site.projects %}
+        
+                {% if p.area == 'accessibility' %}
             
             <div class="col-md-4 card">
                     <div class="panel panel-default">
@@ -25,6 +27,8 @@ use-site-title: true
                 </div>
                 </div>
             </div>
+        
+                {% endif %}
             {% endfor %}
 </div>
 
