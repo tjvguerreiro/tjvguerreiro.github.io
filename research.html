@@ -37,6 +37,8 @@ use-site-title: true
 <div class="row pack">      
         
             {% for p in site.projects %}
+        
+             {% if p.area == 'healthcare' %}
             
             <div class="col-md-4 card">
                     <div class="panel panel-default">
@@ -51,6 +53,7 @@ use-site-title: true
                 </div>
                 </div>
             </div>
+              {% endif %}
             {% endfor %}
 </div>
 
@@ -59,6 +62,8 @@ use-site-title: true
 <div class="row pack">      
         
             {% for p in site.projects %}
+        
+                        {% if p.area == 'privacy' %}
             
             <div class="col-md-4 card">
                     <div class="panel panel-default">
@@ -73,5 +78,6 @@ use-site-title: true
                 </div>
                 </div>
             </div>
+              {% endif %}
             {% endfor %}
 </div>
