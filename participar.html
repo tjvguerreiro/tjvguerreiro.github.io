@@ -33,7 +33,7 @@ Contacte <a href="http://tjvguerreiro.github.io">Tiago Guerreiro</a> através de
 <hr>
 
 {% for p in site.studies %}
-  <h1><a name="{{ p.id }}">{{ p.title }}</a></h1>
+  <h2 name="{{ p.id }}">{{ p.title }}</h2>
   {{ p.description }}
 
   <p> Para participar neste estudo ou obter mais informações, contacte <a href="mailto:{{ p.contact }}">{{ p.contact }}</a>.</p>
