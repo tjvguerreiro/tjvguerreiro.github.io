@@ -8,7 +8,7 @@ use-site-title: true
 
 <h1> Quem Somos </h1>
 
-<p>Somos um conjunto de investigadores (professores, e alunos de mestrado e doutoramento) que dedicam a sua atividade de investigação ao estudo e desenvolvimento de tecnologias acessíveis. Tiago Guerreiro é Professor na Faculdade de Ciências. Hugo Nicolau é Professor no Instituto Superior Técnico. André Rodrigues é aluno de doutoramento. Colaboramos com alunos de mestrado destas instituições e com investigadores de outras instituições nacionais e internacionais. Realizamos frequentemente estudos com a Fundação Raquel e Martin Sain, numa relação que já dura há quase uma década.<p/>
+<p>Somos um conjunto de investigadores que dedicam a sua atividade de investigação ao estudo e desenvolvimento de tecnologias acessíveis. Tiago Guerreiro é Professor na Faculdade de Ciências. Hugo Nicolau é Professor no Instituto Superior Técnico. André Rodrigues é aluno de doutoramento. Colaboramos com alunos de mestrado destas instituições e com investigadores de outras instituições nacionais e internacionais. Realizamos frequentemente estudos com a Fundação Raquel e Martin Sain, numa relação que já dura há quase uma década.<p/>
 
 <h1> O Que Fazemos? </h1>
 
@@ -16,7 +16,11 @@ Estudamos a acessibilidade de dispositivos correntes, e desenvolvemos tecnologia
 
 <h1> Estudos em curso </h1>
 
-
+<ul>
+{% for p in site.studies %}
+  <li><a href="#{{ p.id }}">{{ p.title }}</a></li>
+{% endfor %}
+</ul>
 
 <h1> Mailing List </h1>
 
@@ -25,3 +29,14 @@ Quer estar informado acerca de novos estudos? Inscreva-se na nossa <a href="http
 <h1> Questões ou comentários </h1>
 
 Contacte <a href="http://tjvguerreiro.github.io">Tiago Guerreiro</a> através de <a href="mailto:tjvg@di.fc.ul.pt">e-mail</a> ou telefone (217500566), se tiver alguma questão.
+
+<hr>
+
+{% for p in site.studies %}
+  <h1><a name="{{ p.id }}">{{ p.title }}</a></h1>
+  {{ p.description }}
+
+  <p> Para participar neste estudo ou obter mais informações, contacte o seguinte endereço <a href="mailto:{{ p.contact }}">{{ p.contact }}</a>.</p>
+  <hr>
+{% endfor %}
+</ul>
