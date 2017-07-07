@@ -8,4 +8,4 @@ Our paper [Snooping on Mobile Phones&#58; Prevalence and Trends](http://www.di.f
 
 Check the paper: [Snooping on Mobile Phones&#58; Prevalence and Trends](http://www.di.fc.ul.pt/~tjvg/amc/snooping.pdf)
 
-Hear the presentation: [Presentation audio](https://www.usenix.org/conference/soups2016/technical-sessions/presentation/marques)
+Listen to the presentation: [Presentation audio](https://www.usenix.org/conference/soups2016/technical-sessions/presentation/marques)
