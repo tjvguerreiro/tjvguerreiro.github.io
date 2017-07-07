@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We made it into the Best of Computing notable articles list
-image: notable.jpg
+image: img/notable.jpg
 post: true
 ---
 
