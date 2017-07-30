@@ -4,5 +4,6 @@ authors: André Rodrigues, Kyle Montague, Hugo Nicolau, João Guerreiro and Tiag
 venue: ASSETS 2017 - 19th International ACM SIGACCESS Conference on Computers and Accessibility. Baltimore, Maryland, USA, October, 2017. To Appear.
 year: 2017
 doi: 
+pdf: ../pubs/context-q-support_crc.pdf
 tags: [Accessible Computing]
 ---
