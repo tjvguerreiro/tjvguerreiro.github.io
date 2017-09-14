@@ -5,5 +5,5 @@ venue: ASSETS 2017 - 19th International ACM SIGACCESS Conference on Computers an
 year: 2017
 doi: 
 tags: [Accessible Computing]
-pdf: ../pubs/psi_assets_CRC.pdf
+pdf: ../pubs/sp100-rodrigues.pdf
 ---
