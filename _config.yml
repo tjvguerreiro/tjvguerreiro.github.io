@@ -199,6 +199,6 @@ collections:
   - projects
   - studies
       
-gems:
+plugins:
   - jekyll-paginate
 
