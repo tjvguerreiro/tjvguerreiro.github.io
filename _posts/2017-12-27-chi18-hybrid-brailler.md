@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hybrid-Brailler accepted at ACM CHI 2018
-image: http://www.di.fc.ul.pt/~tjvg/images/hybrid.png
 post: true
 ---
 
