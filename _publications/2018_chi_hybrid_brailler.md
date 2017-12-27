@@ -5,5 +5,5 @@ authors: Daniel Trindade, André Rodrigues, Tiago Guerreiro, Hugo Nicolau
 venue: ACM CHI 2018 - ACM Conference on Human Factors in Computing Systems, Montreal, Canada, May, 2018
 year: "2018"
 doi: 
-tags: [Accessible Computing, Text I/O, Braille]
+tags: [Accessible Computing, Text I/O]
 ---
