@@ -1,0 +1,30 @@
+.person {
+
+    margin-bottom: 10px;
+
+    .profile {
+        height: 70px;
+        width: 70px;
+    }
+
+    .bio {
+        color: $gray;
+    }
+
+    .person-name {
+        margin: 0;
+    }
+}
+
+.person-without-image {
+    margin: 0;
+
+    .bio {
+        margin-left: 1em;
+    }
+}
+
+svg {
+    // make the alignment just like img from bootstrap's reboot.scss
+    vertical-align: middle;
+}
