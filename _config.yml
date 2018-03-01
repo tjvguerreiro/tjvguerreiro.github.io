@@ -35,6 +35,25 @@ avatar: "/img/tjvg.jpg"
 # then specify the following parameter
 # title-img: /path/to/image
 
+# Sections on the "people" page.
+roles:
+  - key: faculty
+    name: Faculty
+  - key: staff
+    name: Staff
+  - key: postdoc
+    name: Researchers
+  - key: grad
+    name: Graduate Students
+  - key: ugrad
+    name: Undergraduate Students
+  - key: ugrad-alum
+    name: Past Undergraduate Students
+  - key: collab
+    name: Collaborators
+  - key: alum
+    name: Alumni
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
