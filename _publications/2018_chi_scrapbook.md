@@ -5,5 +5,5 @@ authors: Sérgio Alves, Filipa Brito, Andreia Cordeiro, Luís Carriço, Tiago Gu
 venue: ACM CHI 2018 Late Breaking Work - Extended Abstracts of the ACM Conference on Human Factors in Computing Systems, Montreal, Canada, May, 2018
 year: "2018"
 doi: 
-tags: [Healthcare, Dementia]
+tags: [Healthcare]
 ---
