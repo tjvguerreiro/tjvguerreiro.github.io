@@ -1,41 +1,54 @@
 tjvg:
     display_name: "Tiago Guerreiro"
-    webpage: "https://tjvguerreiro.github.io"
-    github: tjvguerreiro
     role: faculty
     image: /img/tjvg.jpg
     bio: "Assistant Professor"
     
 abarros:
-    display_name: "Tiago Guerreiro"
+    display_name: "António Barros"
     role: postdoc
-    image: /img/tjvg.jpg
-    bio: "PostDoc Visiting Researcher (Jan-Dec 2019)"
+    bio: "Visiting PostDoc (Jan-Dec 2019)"
 
 arodrigues:
-    display_name: "Tiago Guerreiro"
-    webpage: "https://tjvguerreiro.github.io"
-    github: tjvguerreiro
-    role: faculty
-    image: /img/tjvg.jpg
-    bio: "Assistant Professor"
+    display_name: "André Rodrigues"
+    role: grad
+    image: /img/andre.jpg
+    bio: "PhD Student"
 
 dmarques:
-    display_name: "Tiago Guerreiro"
-    webpage: "https://tjvguerreiro.github.io"
-    github: tjvguerreiro
-    role: faculty
-    image: /img/tjvg.jpg
-    bio: "Assistant Professor"
+    display_name: "Diogo Marques"
+    role: grad
+    image: /img/diogo.jpg
+    bio: "PhD Student"
 
 dbranco:
+    display_name: "Diogo Branco"
+    role: grad
+    image: /img/branco.jpg
+    bio: "PhD Student"
 
 asantos:
+    display_name: "André Santos"
+    role: staff
+    image: /img/santos.jpg
+    bio: "Research Enginner"
 
 salves:
-
-lcarvalho:
+    display_name: "Sérgio Alves"
+    role: staff
+    image: /img/santos.jpg
+    bio: "Research Enginner"
 
 hsimao:
+    display_name: "Hugo Simão"
+    role: ugrad
+    image: /img/hugo.jpg
+    bio: "Master Student"
+
+hsimao:
+    display_name: "Álvaro Teles"
+    role: ugrad
+    image: /img/alvaro.jpg
+    bio: "Master Student"
 
 
