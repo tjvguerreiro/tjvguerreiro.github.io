@@ -766,12 +766,13 @@ ul.people li {
         height: auto;
         display: table;
         margin: 0rem;
+}
        
-        .person {
+.person {
             display: table-cell;
             vertical-align: middle;
             width: auto;
-        }
+ }
 
         .bio {
             color: #a9a9a9;
@@ -791,6 +792,3 @@ ul.people li {
             cx: 35;
             cy: 35;
         }
-    }
-
-}
