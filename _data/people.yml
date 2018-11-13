@@ -32,23 +32,37 @@ asantos:
     role: staff
     image: /img/santos.jpg
     bio: "Research Enginner"
+    
+lcarvalho:
+    display_name: "Luís Carvalho"
+    role: ugrad
+    image: /img/lcarvalho.png
+    bio: "Master Student"
+    
+jfranco:
+    display_name: "José Franco"
+    role: ugrad
+    image: /img/jfranco.jpg
+    bio: "Master Student"
+    
+asantos:
+    display_name: "André Santos"
+    role: staff
+    image: /img/santos.jpg
+    bio: "Research Enginner"
 
 salves:
     display_name: "Sérgio Alves"
     role: staff
-    image: /img/santos.jpg
+    image: /img/sergio.jpg
     bio: "Research Enginner"
 
 hsimao:
     display_name: "Hugo Simão"
     role: ugrad
-    image: /img/hugo.jpg
     bio: "Master Student"
 
-hsimao:
+alvaro:
     display_name: "Álvaro Teles"
     role: ugrad
-    image: /img/alvaro.jpg
     bio: "Master Student"
-
-
