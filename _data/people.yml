@@ -7,10 +7,26 @@ tjvg:
     bio: "Assistant Professor"
     
 abarros:
+    display_name: "Tiago Guerreiro"
+    role: postdoc
+    image: /img/tjvg.jpg
+    bio: "PostDoc Visiting Researcher (Jan-Dec 2019)"
 
 arodrigues:
+    display_name: "Tiago Guerreiro"
+    webpage: "https://tjvguerreiro.github.io"
+    github: tjvguerreiro
+    role: faculty
+    image: /img/tjvg.jpg
+    bio: "Assistant Professor"
 
 dmarques:
+    display_name: "Tiago Guerreiro"
+    webpage: "https://tjvguerreiro.github.io"
+    github: tjvguerreiro
+    role: faculty
+    image: /img/tjvg.jpg
+    bio: "Assistant Professor"
 
 dbranco:
 
