@@ -759,25 +759,14 @@ ul.people {
     
     list-style-type: none;
     padding-left: 0em;
+}
 
-    .profile {
-        width: 70px;
-        height: 70px;
-    }
-
-    li {
+ul.people li {
         
         height: auto;
         display: table;
         margin: 0rem;
-        
-        .profile {
-            text-align: center;
-            display: table-cell;
-            margin: .5rem;
-            vertical-align: middle;
-        }
-        
+       
         .person {
             display: table-cell;
             vertical-align: middle;
