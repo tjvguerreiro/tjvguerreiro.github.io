@@ -6,12 +6,12 @@ tjvg:
 apires:
     display_name: "Ana Pires"
     role: postdoc
-    bio: "PostDoc Researcher, Human Perception Skilss"
+    bio: "PostDoc Researcher, Human Perception"
     
 abarros:
     display_name: "António Barros"
     role: postdoc
-    bio: "PostDoc Researcher, Accessible Education"
+    bio: "PostDoc Researcher, Inclusive Education"
 
 arodrigues:
     display_name: "André Rodrigues"
@@ -31,7 +31,7 @@ dbranco:
 lcarvalho:
     display_name: "Luís Carvalho"
     role: ugrad
-    bio: "Master Student, Designing for Homeless People"
+    bio: "Master Student, Pervasive Health"
     
 jfranco:
     display_name: "José Franco"
@@ -46,7 +46,7 @@ asantos:
 salves:
     display_name: "Sérgio Alves"
     role: staff
-    bio: "Research Enginner, Pervasive Healthcare"
+    bio: "Research Enginner, Pervasive Health"
 
 hsimao:
     display_name: "Hugo Simão"
