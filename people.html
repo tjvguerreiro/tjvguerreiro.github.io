@@ -20,7 +20,7 @@ I am a senior integrated member of LASIGE, a CSE research unit at Faculdade de C
 
 My lab is composed of people that work with me in their day to day on research addressing understanding and devising new interactive technologies for accessible computing, pervasive healthcare, and usable privacy. We call ourselves the #Tech&People Lab. 
 
-<div class="row">
+<!--<div class="row">
 {% for grp in page.role_groups %}
     <div class="col-md-{% if grp contains 'grad' %}8{% else %}4{% endif %}">
         {% for role in site.roles %}
@@ -63,6 +63,40 @@ My lab is composed of people that work with me in their day to day on research a
     </div>
 {% endfor %}
 </div>
+-->
+
+<div class="row">
+{% for grp in page.role_groups %}
+    <div class="col-md-{% if grp contains "alum" %}7{% else %}5{% endif %}">
+        {% for role in site.roles %}
+        {% if grp contains role.key %}
+            {% assign has_members = false %}
+            {% for item in site.data.people %}
+                {% assign person = item[1] %}
+                {% if person.role == role.key %}
+                    {% assign has_members = true %}
+                {% endif %}
+            {% endfor %}
+            {% if has_members %}
+                <h3>{{ role.name }}</h3>
+                <ul class="people {{role.key}}">
+                {% for item in site.data.people %}
+                    {% assign person = item[1] %}
+                    {% if person.role == role.key %}
+                    <li>
+                        {% if person.webpage %}<a href="{{ person.webpage |escape }}">{% endif %}{{person.display_name}}{% if person.webpage %}</a>{% endif %}
+                        {% if person.bio %} <span class="bio bio-inline">{{person.bio}}</span>{% endif %}
+                    </li>
+                    {% endif %}
+                {% endfor %}
+                </ul>
+            {% endif %}
+        {% endif %}
+        {% endfor %}
+    </div>
+{% endfor %}
+</div>
+
 
 <!--Remaining roles (collaborators, undergrads, alumni) -->
 <div class="row">
