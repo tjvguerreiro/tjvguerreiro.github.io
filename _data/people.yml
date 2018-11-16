@@ -12,49 +12,41 @@ abarros:
 arodrigues:
     display_name: "André Rodrigues"
     role: grad
-    image: /img/andre.jpg
     bio: "PhD Student"
 
 dmarques:
     display_name: "Diogo Marques"
     role: grad
-    image: /img/diogo.jpg
     bio: "PhD Student"
 
 dbranco:
     display_name: "Diogo Branco"
     role: grad
-    image: /img/branco.jpg
     bio: "PhD Student"
 
 asantos:
     display_name: "André Santos"
     role: staff
-    image: /img/santos.jpg
     bio: "Research Enginner"
     
 lcarvalho:
     display_name: "Luís Carvalho"
     role: ugrad
-    image: /img/lcarvalho.png
     bio: "Master Student"
     
 jfranco:
     display_name: "José Franco"
     role: ugrad
-    image: /img/jfranco.jpg
     bio: "Master Student"
     
 asantos:
     display_name: "André Santos"
     role: staff
-    image: /img/santos.jpg
     bio: "Research Enginner"
 
 salves:
     display_name: "Sérgio Alves"
     role: staff
-    image: /img/sergio.jpg
     bio: "Research Enginner"
 
 hsimao:
