@@ -52,6 +52,11 @@ hsimao:
     display_name: "Hugo Simão"
     role: ugrad
     bio: "Master Student, HRI for Health"
+    
+laiza:
+    display_name: "Laíza Silva"
+    role: ugrad
+    bio: "Master Student, Inclusive Education (6-month visit from USP, Brazil) "
 
 alvaro:
     display_name: "Álvaro Teles"
