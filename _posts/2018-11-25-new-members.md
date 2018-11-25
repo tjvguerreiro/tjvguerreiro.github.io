@@ -1,10 +1,10 @@
 ---
 layout: post
 title: New members!
-subtitle: The #Tech&People lab welcomes two new PostDocs, one PhD student, and two MSc students
+subtitle: The Tech&People lab welcomes two new PostDocs, one PhD student, and two MSc students
 ---
 
-The lab is growing. New projects and several new researchers and some upgrades.
+The lab is growing. New projects and several new researchers and some upgrades. Check [People](https://tjvguerreiro.github.io/people/) for the entire team.
 
 Ana Pires is a new PostDoc researcher (18 to 30 months contract), psychologist by formation, that is interested in how cognitive theories can be successfully applied to the design of interactive systems in order to achieve enhanced virtual experiences.
 
