@@ -327,6 +327,13 @@ img {
   }
 }
 
+
+.centered-image{
+    width:60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 /* --- Footer --- */
 
 footer {
