@@ -27,6 +27,11 @@ dbranco:
     display_name: "Diogo Branco"
     role: grad
     bio: "PhD Student, Data-Driven Heathcare"
+ 
+jdomingues:
+    display_name: "Joana Domingues, M.D. (Neurologist)"
+    role: grad
+    bio: "PhD Student, Remote Patient Assessment (co-advisor to Prof. Joaquim Ferreira)"
     
 lcarvalho:
     display_name: "Luís Carvalho"
