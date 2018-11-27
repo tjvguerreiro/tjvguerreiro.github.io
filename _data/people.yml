@@ -16,12 +16,12 @@ abarros:
 arodrigues:
     display_name: "André Rodrigues"
     role: grad
-    bio: "PhD Student, Mobile Accessibility"
+    bio: "PhD Student (co-advised by Dr. Kyle Montague [Openlab, Newcastle]), Mobile Accessibility"
 
 dmarques:
     display_name: "Diogo Marques"
     role: grad
-    bio: "PhD Student, Usable Privacy"
+    bio: "PhD Student (co-advised by Prof. Luís Carriço), Usable Privacy"
 
 dbranco:
     display_name: "Diogo Branco"
@@ -31,7 +31,7 @@ dbranco:
 jdomingues:
     display_name: "Joana Domingues, M.D. (Neurologist)"
     role: grad
-    bio: "PhD Student, Remote Patient Assessment (co-advisor to Prof. Joaquim Ferreira)"
+    bio: "PhD Student, Remote Patient Assessment (co-advisor to Prof. Joaquim Ferreira [Med School, UL])"
     
 lcarvalho:
     display_name: "Luís Carvalho"
@@ -56,12 +56,12 @@ salves:
 hsimao:
     display_name: "Hugo Simão"
     role: ugrad
-    bio: "Master Student, HRI for Health"
+    bio: "Master Student (co-advised by Prof. Rita Almendra [Architecture School, UL]), HRI for Health"
     
 laiza:
     display_name: "Laíza Silva"
     role: ugrad
-    bio: "Master Student, Inclusive Education (6-month visit from USP, Brazil) "
+    bio: "Master Student (advised by Prof. Seiji Isotani), Inclusive Education (6-month visit from USP, Brazil) "
 
 alvaro:
     display_name: "Álvaro Teles"
