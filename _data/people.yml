@@ -46,12 +46,12 @@ jfranco:
 asantos:
     display_name: "André Santos"
     role: staff
-    bio: "Research Enginner, Mobile Accessibility"
+    bio: "Research Engineer, Mobile Accessibility"
 
 salves:
     display_name: "Sérgio Alves"
     role: staff
-    bio: "Research Enginner, Pervasive Health"
+    bio: "Research Engineer, Pervasive Health"
 
 hsimao:
     display_name: "Hugo Simão"
