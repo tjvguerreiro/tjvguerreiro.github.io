@@ -5,4 +5,5 @@ venue: INTERACT 2019 -  17th IFIP TC13 International Conference on Human-Compute
 year: "2019"
 doi: 
 tags: [Accessible Computing]
+pdf: ../pubs/interact19-tutorials.pdf
 ---
