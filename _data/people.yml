@@ -33,11 +33,6 @@ jdomingues:
     role: grad
     bio: "PhD Student, Remote Patient Assessment (co-advisor to Prof. Joaquim Ferreira [Med School, UL])"
     
-lcarvalho:
-    display_name: "Luís Carvalho"
-    role: ugrad
-    bio: "Master Student, Pervasive Health"
-    
 jfranco:
     display_name: "José Franco"
     role: ugrad
@@ -50,7 +45,7 @@ asantos:
 
 salves:
     display_name: "Sérgio Alves"
-    role: staff
+    role: grad
     bio: "Research Engineer, Pervasive Health"
 
 hsimao:
