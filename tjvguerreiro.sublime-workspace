@@ -1,0 +1,298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Ever",
+				"Evernote: Search Note"
+			],
+			[
+				"Evernote",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"Open",
+				"Evernote: New empty note"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/publications.html",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/2019_book_mobilweb.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/writing bits/drafts/cogvr.md",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.198/PHPadmin.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.417/StickerBook.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.003/index.php",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/2019_assets_sos.md",
+		"/C/Users/Tiago Guerreiro/Downloads/asw007 (1).txt",
+		"/C/Users/Tiago Guerreiro/Downloads/link onedrive (2).txt",
+		"/C/Users/Tiago Guerreiro/Dropbox/writing bits/drafts/msc_proposals_2019",
+		"/C/Users/Tiago Guerreiro/Desktop/ASW_3ªetapa_Grupo027/Entrega/webservices/adiciona_carta.php",
+		"/C/Users/Tiago Guerreiro/Downloads/link onedrive (1).txt",
+		"/C/Users/Tiago Guerreiro/Downloads/link_proj2_asw008 (1).txt",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.682/getTrades.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.027/buyPack.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.684/preg.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.744/chat.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.340/chat_caderneta.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.743/FAZERRRRR.txt",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.976/register.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.973/logIn.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.127/profile.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.586/uploadInfo.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.609/regisusers.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.739/mainmenu.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.767/roullete.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.289/chat.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.384/Cards.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.128/About.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.362/insert.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.445/Register.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.026/admin.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.348/iflogged.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.337/loginperson.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.585/perfil.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.498/sorteio.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.627/registo.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.631/soap_service.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.218/troca.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.367/ws_nome_serv.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.523/registration.php",
+		"/C/Users/Tiago Guerreiro/Downloads/link_proj2_asw008.txt",
+		"/C/Users/Tiago Guerreiro/Downloads/link onedrive.txt",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.425/login.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.642/register.php",
+		"/C/Users/Tiago Guerreiro/Downloads/asw007.txt",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.727/viewRequests.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.569/index.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.604/webservices.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.098/servidor2.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.478/AdicionaCarta.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.940/client.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.656/Soapserver.php",
+		"/C/Users/Tiago Guerreiro/Dropbox/writing bits/notes/avaliacao_asw",
+		"/C/Users/Tiago Guerreiro/Dropbox/cerpdc/2019/Joana Pereira-ce3c/pareceres.txt",
+		"/C/Users/Tiago Guerreiro/Dropbox/cerpdc/2019/Alexandro Andrade-ibeb/pareceres.txt",
+		"/C/Users/Tiago Guerreiro/Desktop/Assistive-technologies-for-Visually-Impaired-Peopl-58f49d25-a036-4df8-a7e6-ebd90ceb1840.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/2019_plan.txt",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.721/Assistive-technologies-for-Visually-Impaired-Peopl-58f49d25-a036-4df8-a7e6-ebd90ceb1840.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/IPM-1718/IPM-1718/Sumarios/sumarios-IPM-1718-Teoricas.txt",
+		"/C/Users/Tiago Guerreiro/Dropbox/writing bits/unsorted_meetings.md",
+		"/C/Users/Tiago Guerreiro/Downloads/annotations (1).tex",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.869/erc_B1.tex",
+		"/C/Users/Tiago Guerreiro/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+		"/C/Users/Tiago Guerreiro/AppData/Roaming/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+		"/C/Users/Tiago Guerreiro/Downloads/References from  (1).bib",
+		"/C/Users/Tiago Guerreiro/Downloads/output.bbl",
+		"/C/Users/Tiago Guerreiro/Dropbox/students/PhDs/(2014-)_Diogo/DiogoMarquesRelatorioAnual1718.txt",
+		"/C/Users/Tiago Guerreiro/Dropbox/students/PhDs/(2015-)_Andre/André Rodrigues RelatorioAnual1617.txt",
+		"/C/Users/Tiago Guerreiro/Dropbox/students/PhDs/(2015-)_Andre/Andre_RelatorioAnual1718.txt",
+		"/C/Users/Tiago Guerreiro/Dropbox/students/PhDs/(2014-)_Diogo/DiogoMarquesRelatorioAnual1516.txt",
+		"/C/Users/Tiago Guerreiro/Dropbox/students/PhDs/(2014-)_Diogo/NomeAluno RelatorioAnual1718.txt",
+		"/C/Users/Tiago Guerreiro/Downloads/mlbonet-seminar-jun18.txt",
+		"/C/Users/Tiago Guerreiro/Dropbox/era_permed.txt",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.397/Webservice.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.884/ws_client.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.695/Game.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.075/Game.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.817/ws_nome_serv.php",
+		"/C/Users/Tiago Guerreiro/AppData/Local/Temp/Rar$DIa0.889/ws_nome_cli.php",
+		"/C/Users/Tiago Guerreiro/Downloads/Accessibility_FAQ_page_generator_v5 (1).html",
+		"/C/Users/Tiago Guerreiro/Desktop/actigraphy/actigraphy2/.htaccess",
+		"/C/Users/Tiago Guerreiro/Desktop/actigraphy/actigraphy/.htaccess",
+		"/C/Users/Tiago Guerreiro/Application Data/SSH/temp/Readme.txt",
+		"/C/Users/Tiago Guerreiro/Desktop/sigchi-ext.cls",
+		"/C/Users/Tiago Guerreiro/Dropbox/# Projeto Mestrado IST - Inês Urbano",
+		"/C/Users/Tiago Guerreiro/Downloads/Accessibility_FAQ_page_generator_v5.html",
+		"/C/Users/Tiago Guerreiro/Downloads/noname",
+		"/C/Users/Tiago Guerreiro/Downloads/noname (1)",
+		"/C/Users/Tiago Guerreiro/Dropbox/research/projects/brailler++/CRC/submission.txt",
+		"/C/Users/Tiago Guerreiro/Desktop/students.html",
+		"/C/Users/Tiago Guerreiro/Dropbox/research/projects/_papers/2016_book_chapter_touch_spatial/book_chapter_2016.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/planning_aug_dez_2017.md",
+		"/C/Users/Tiago Guerreiro/Downloads/toc.html",
+		"/C/Users/Tiago Guerreiro/Desktop/sep17pub.dat",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/2008_chi_realfind.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/2016_day2day.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/2006_emg_grapp.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/5evvpybe.z2f.txt",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/2008_mbs_ecce_CRC.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/2008_mult-15-04-guer.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/temp/2008_mbs_ecce_CRC.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/temp/2006_emg_grapp.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/2010_p655-gloria.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_config.yml",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/2017_assets_hint_me.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/2017_assets_psi.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_posts/2017-07-30-assets17.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/research/projects/parkinson/memo.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/2017_ijhcs_review.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/research/projects/snaggy/snaggy.md",
+		"/C/Users/Tiago Guerreiro/Downloads/DiogoMarquesRelatorioAnual1617.txt",
+		"/C/Users/Tiago Guerreiro/Downloads/accel_walking_outbound.json.items-97685ee9-3eb0-43e5-9879-ce5b31e0371b8296129926155346845.tmp",
+		"/C/Users/Tiago Guerreiro/Downloads/data-driven.html",
+		"/C/Users/Tiago Guerreiro/Downloads/André Rodrigues RelatorioAnual1617.txt",
+		"/C/Users/Tiago Guerreiro/Downloads/TBlackman.bib"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"---",
+			"Mustache"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tjvguerreiro.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
