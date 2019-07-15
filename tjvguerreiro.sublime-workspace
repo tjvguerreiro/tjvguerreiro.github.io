@@ -7,6 +7,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4153,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -52,10 +61,16 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io"
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_posts"
 	],
 	"file_history":
 	[
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_posts/2018-11-25-new-members.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_posts/2019-07-12-taccess.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_posts/2019-07-12-assets20-sos.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_posts/2018-04-16-chi19-sc-chair.md",
+		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_posts/2019-05-15-chi19.md",
 		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/publications.html",
 		"/C/Users/Tiago Guerreiro/Dropbox/dissemination/web/tjvguerreiro.github.io/_publications/2019_book_mobilweb.md",
 		"/C/Users/Tiago Guerreiro/Dropbox/writing bits/drafts/cogvr.md",
@@ -208,8 +223,48 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2749,
+								2749
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 324,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -247,6 +302,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 126.400001526
 	},
 	"pinned_build_system": "",
 	"project": "tjvguerreiro.sublime-project",
