@@ -13,7 +13,7 @@ Read the paper here:
 https://tjvguerreiro.github.io/pubs/vulnerability_chi19.pdf
 
 Read our other papers here:
-SOUPS'16: http://www.di.fc.ul.pt/~tjvg/amc/snooping.pdf (Distinguished Paper Award and ACM Best of Computing 2017)
-CHI'17: http://www.di.fc.ul.pt/~tjvg/inconspicuous/social-insider-chi17.pdf
+* SOUPS'16: http://www.di.fc.ul.pt/~tjvg/amc/snooping.pdf (Distinguished Paper Award and ACM Best of Computing 2017)
+* CHI'17: http://www.di.fc.ul.pt/~tjvg/inconspicuous/social-insider-chi17.pdf
 
 YEEH YOU HEAR THAT DARRYL!!!!! 
