@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Media attention to our Usable Privacy research
-subtitle: Our research on snooping by close adversaries was featured in the media, including in "The Daily Show" with Trevor Noah
 post: true
 ---
 
-Our research was featured on the Daily Show by Trevor Noah on July 29th. The research led by Diogo Marques, advised by me and Luis Carriço, with the collaboration of UBC researchers (Ivan Beschastnikh and Kosta Beznosov), had media attention in the last three years (since our SOUPS'16 paper), but I guess this is the highlight. Obviously, the research findings have been used with liberty but nonetheless.
+Our research was featured on "The Daily Show" by Trevor Noah on July 29th. The research led by Diogo Marques, advised by me and Luis Carriço, with the collaboration of UBC researchers (Ivan Beschastnikh and Kosta Beznosov), had media attention in the last three years (since our SOUPS'16 paper), but I guess this is the highlight. Obviously, the research findings have been used with liberty but nonetheless.
 
 Check it out, starting on 03:05:
 http://www.cc.com/video-clips/0igv0p/the-daily-show-with-trevor-noah-studies-show---romantic-relationships  
